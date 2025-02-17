@@ -1,0 +1,96 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    padding:10px;
+}
+h1{
+    order:0px solid #fff;margin-left:20px;font-size:60px;height:80px;background-color: #fff;
+}
+#select{
+    position: absolute;
+    right:20px;
+    top:20px;
+    width:200px;
+    height:100px;
+    line-height: 100px;
+    font-size:30px;
+}
+.van-cell{
+    height:140px;
+    line-height: 70px;
+    margin-top:20px;
+    padding: 10px 20px;
+}
+form .van-cell{
+    height:100px;
+    line-height: 60px;
+}
+form .van-search__action{
+    font-size:50px;
+}
+.van-cell__label,.van-cell__value{
+    font-size:36px;
+    width: 700px;
+}
+.van-cell__value{
+    font-weight: bold;
+    /*color:green;*/
+}
+.van-cell__title span{
+    font-size:40px;
+}
+.van-button--primary{
+    width: 180px;
+    height: 150px;
+    font-size:30px;
+    margin-top:40px;
+    border-radius: 10%;
+}
+.van-cell:not(:last-child)::after{
+    border-bottom: 1px solid #ebedf0;
+}
+.van-field__left-icon .van-icon, .van-field__right-icon .van-icon {
+    font-size: 50px;
+}
+.list-inline li{
+    width:100px;
+    height:100px;
+    border:1px solid #000;
+    line-height: 100px;
+    text-align: center;
+}
+.list-inline li:hover,.active{
+    background:#00bb00;
+    color:#fff;
+    cursor:pointer;
+}
+.tela{
+    color:#000;
+    font-weight: normal;
+}
+.datatimepicker{
+    width: 241px;
+    height: 100px;
+    position: absolute;
+    right:262px;
+    top:20px;
+    line-height: 100px;
+}
+#datetimepicker2 input{
+    width: 290px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 40px;
+}
+.dropdown-menu{
+    font-size:35px;
+}
+#datetimepicker2 .glyphicon,#datetimepicker2 input-group-addon{
+    font-size:35px;
+    width:50px;
+}
+.table-condensed>tbody>tr>td{
+    padding:20px 10px;
+}

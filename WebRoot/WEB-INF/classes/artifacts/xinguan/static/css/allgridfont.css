@@ -1,0 +1,17 @@
+.x-panel-tl .x-panel-header {
+    color: #15428b;
+    font: bold 13px tahoma,arial,verdana,sans-serif;
+}
+
+.x-btn button {
+    color: #333;
+    font: 12px arial,tahoma,verdana,helvetica;
+}
+
+.x-grid3-hd-row td {
+    font: 12px/15px arial,tahoma,helvetica,sans-serif;
+}
+
+.x-grid3-row td, .x-grid3-summary-row td {
+    font: 12px/13px arial,tahoma,helvetica,sans-serif;
+}

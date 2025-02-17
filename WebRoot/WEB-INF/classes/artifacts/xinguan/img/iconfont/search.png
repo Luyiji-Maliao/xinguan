@@ -1,0 +1,30 @@
+package com.usci.sample.entity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.persistence.Transient;
+
+/**
+ * 样本中心  样本待办（各模块待办样本）
+ * @author 聂梦肖(39个)
+ *2015-12-7
+ */
+@Entity
+@Table(name = "sample_samplegtasks")
+public class SampleGtasks {
+	@Id
+	@GeneratedValue
+	private Integer sampleGtasksId;
+	//是否标红
+	@Transient
+	private String isred;
+
+	//待办样本编号
+	@Column(length = 50,  nullable = false)
+	private String sampleGtasksNo;
+	//待办样本”数量“单位
+	@Column(length = 20)
+	private String orderSampl

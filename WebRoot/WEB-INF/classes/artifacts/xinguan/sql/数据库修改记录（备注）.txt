@@ -1,0 +1,612 @@
+﻿SVN:5262   Author:张晓宇===================================================================================================
+ALTER TABLE `yxy_exceldata`
+ADD COLUMN `historyCount`  int(30) NULL DEFAULT NULL AFTER `analysisID`;
+
+
+SVN:5200   Author:张晓宇===================================================================================================
+update jy_tumoursendsample a
+set a.keyword='5'
+where a.checkProject like '%优睿%';
+UPDATE `uscilims`.`sys_right` SET `id`='196', `isLeaf`='', `jspPage`='xd_refund.jsp', `moduleName`='生育线事业部审核退款', `moduleUrl`='financerefund!xdpage', `rights`='查看,审核,高级搜索', `updateTime`='', `parent_id`='191', `rightSort`=NULL WHERE (`id`='196');
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('406', '', 'tumourxd_refund.jsp', '肿瘤线事业部审核退款', 'financerefund!tumour', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('407', '', 'newxd_refund.jsp', '新产线事业部审核退款', 'financerefund!newlines', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('408', '', 'bloodxd_refund.jsp', '血液病线事业部审核退款', 'financerefund!blood', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('409', '', 'tijianxd_refund.jsp', '体检线事业部审核退款', 'financerefund!tijian', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('401', '', 'newinvoice.jsp', '新产线开发票', 'financeinvoice!newlines', '查看,审核,高级搜索', NULL, '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('402', '', 'tumourinvoice.jsp', '肿瘤线开发票', 'financeinvoice!tumour', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('403', '', 'tijianinvoice.jsp', '体检线开发票', 'financeinvoice!tijian', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('404', '', 'bloodinvoice.jsp', '血液病线开发票', 'financeinvoice!blood', '查看,审核,高级搜索', '', '191', NULL);
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('405', '', 'invoice1.jsp', '生育线开发票', 'financeinvoice!modulepage1', '查看,审核,高级搜索,开票信息', NULL, '191', NULL);
+
+SVN:5178	Author:周晓锋===================================================================================================
+ALTER TABLE `storage_unboxing_express`
+ADD COLUMN `boxNumber`  varchar(30) NULL AFTER `warmBagNum`;
+
+SVN:5154   Author:张晓宇===================================================================================================
+ALTER TABLE `sx_reverification`
+ADD COLUMN `eigenvalue`  varchar(100) NULL DEFAULT '' AFTER `projectCode`;
+ALTER TABLE `sx_chromosomedfz`
+ADD COLUMN `eigenvalue`  varchar(100) NULL DEFAULT '' AFTER `isAutoReport`;
+
+SVN:5134   Author:张晓宇===================================================================================================
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('385', '', 'tumouryfacreatsampleno.jsp', '新产线自动生成样本编号', 'salescreatsampleno!modulepage3', '查看,生成样本编号,修改,导出EXCEL,高级搜索', NULL, '375', NULL);
+update sample_checkproject a
+set a.`code`='BC'
+where a.checkProjectName='优替--乳腺癌21基因';
+
+SVN:5134   Author:张晓宇===================================================================================================
+ALTER TABLE `np_niptpluschromosome`
+ADD INDEX `analysisID` (`analysisID`) USING BTREE ,
+ADD INDEX `sampleID` (`sampleID`) USING BTREE ;
+ALTER TABLE `np_niptplussex`
+ADD INDEX `analysisID` (`analysisID`) USING BTREE ,
+ADD INDEX `sampleID` (`sampleID`) USING BTREE ;
+ALTER TABLE `np_niptplusquality`
+ADD COLUMN `sexchrConcentration`  varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT '' AFTER `withoutDup`,
+ADD COLUMN `euchrConcentration`  varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT '' AFTER `sexchrConcentration`;
+
+SVN:5103   Author:王家明==========样本接收流程系统修改部分需求-附录1（预补录流程）============================================================
+
+INSERT INTO `uscilims`.`sys_right`(`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES (386, b'1', 'prebox.jsp', '拍照', 'prebox!modulepage', '查看,开始拍照,修改状态', NULL, 395, 1);
+INSERT INTO `uscilims`.`sys_right`(`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES (387, b'1', 'prerecordabnormal.jsp', '预补录异常', 'prerecordabnormal!modulepage', '查看,处理,修改状态,删除,高级搜索', NULL, 395, 3);
+INSERT INTO `uscilims`.`sys_right`(`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES (388, b'1', 'prerecord.jsp', '预补录', 'prerecord!modulepage', '开始预补录,修改预补录,修改状态', NULL, 395, 2);
+INSERT INTO `uscilims`.`sys_right`(`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES (395, b'0', NULL, '客服预补录', NULL, NULL, NULL, 105, NULL);
+
+
+
+SVN:5073   Author:周晓锋======================================================================
+ALTER TABLE `twooneresult`
+ADD COLUMN `yqfflyang`  varchar(50) NULL AFTER `uploadResultState`;
+
+
+SVN5052       聂梦肖=================================================
+ALTER TABLE `sample_child`
+ADD COLUMN `doctor` varchar(30) NULL DEFAULT '' AFTER `iui`,
+ADD COLUMN `doctorDate` varchar(30) NULL DEFAULT '' AFTER `doctor`,
+ADD COLUMN `husbandName` varchar(30) NULL DEFAULT '' AFTER `doctorDate`,
+ADD COLUMN `husbandAge` varchar(30) NULL DEFAULT '' AFTER `husbandName`,
+ADD COLUMN `husbandPhone` varchar(30) NULL DEFAULT '' AFTER `husbandAge`,
+ADD COLUMN `nowIll` varchar(30) NULL DEFAULT '' AFTER `husbandPhone`,
+ADD COLUMN `haveTreat` varchar(30) NULL DEFAULT '' AFTER `nowIll`,
+ADD COLUMN `treatRemark` varchar(30) NULL DEFAULT '' AFTER `haveTreat`,
+ADD COLUMN `chromosomeAnomaly` varchar(30) NULL DEFAULT '' AFTER `treatRemark`,
+ADD COLUMN `siocdu` varchar(30) NULL DEFAULT '' AFTER `chromosomeAnomaly`,
+ADD COLUMN `bcOther` varchar(30) NULL DEFAULT '' AFTER `siocdu`,
+ADD COLUMN `crLength` varchar(30) NULL DEFAULT '' AFTER `bcOther`,
+ADD COLUMN `stemCellDate` varchar(30) NULL DEFAULT '' AFTER `crLength`,
+ADD COLUMN `hcgmom` varchar(30) NULL DEFAULT '' AFTER `stemCellDate`,
+ADD COLUMN `afpmom` varchar(30) NULL DEFAULT '' AFTER `hcgmom`;
+SVN5016    Author:周晓锋====================================================================
+ALTER TABLE `ac_autocomputer`
+ADD COLUMN `expectedLibraryDate`  varchar(30) NULL AFTER `isKeyan`,
+ADD COLUMN `fromId`  int(11) NULL AFTER `expectedLibraryDate`,
+ADD COLUMN `syState`  varchar(30) NULL AFTER `fromId`,
+ADD COLUMN `pjtype`  varchar(30) NULL AFTER `syState`;
+
+ALTER TABLE `ac_autocomputerzhu`
+ADD COLUMN `overDownloadState`  varchar(30) NULL AFTER `updateTime`;
+
+
+SVN:4983   Author:郭强======================================================================
+ALTER TABLE `inter_priority`
+ADD COLUMN `usDrugs` varchar(50) NULL DEFAULT '' AFTER `resultTime`,
+ADD COLUMN `pbDrugs` varchar(50) NULL DEFAULT '' AFTER `usDrugs`,
+ADD COLUMN `cuDrugs` varchar(50) NULL DEFAULT '' AFTER `pbDrugs`,
+ADD COLUMN `ctDrugs` varchar(50) NULL DEFAULT '' AFTER `cuDrugs`,
+ADD COLUMN `remarks` varchar(50) NULL DEFAULT '' AFTER `ctDrugs`;
+ALTER TABLE `inter_yy_priority`
+ADD COLUMN `ventureValue` varchar(50) NULL DEFAULT '' AFTER `bzhu`,
+ADD COLUMN `pathogenicGrade` varchar(50) NULL DEFAULT '' AFTER `ventureValue`;
+
+
+SVN:4980   Author:张晓宇======================================================================
+DROP TABLE IF EXISTS `sample_samplingmakeupxinshai`;
+CREATE TABLE `sample_samplingmakeupxinshai` (
+  `samplingmakeupxinshaiid` int(11) NOT NULL AUTO_INCREMENT,
+  `againsampleno` varchar(20) DEFAULT NULL,
+  `againsamplingdate` varchar(20) DEFAULT NULL,
+  `inputName` varchar(20) DEFAULT NULL,
+  `inputTime` varchar(20) DEFAULT NULL,
+  `sampleno` varchar(20) DEFAULT NULL,
+  `samplingdate` varchar(20) DEFAULT NULL,
+  `updateName` varchar(20) DEFAULT NULL,
+  `updateTime` varchar(20) DEFAULT NULL,
+  PRIMARY KEY (`samplingmakeupxinshaiid`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('393', '', 'samplingmakeupxinshai.jsp', '新筛重取样', 'samplingmakeupxinshai!modulepage', '查看,添加,导出EXCEL,修改', '', '22', '41');
+
+SVN:4882   Author:郭强======================================================================
+ALTER TABLE `jy_tumoursendsample`
+ADD COLUMN `keyword` int(10) NULL DEFAULT '' AFTER `sjys`;
+ALTER TABLE `jy_tumoursalescontacts`
+ADD COLUMN `keyword` int(10) NULL DEFAULT '' AFTER `code`;
+ALTER TABLE `ch_checkhospitalmanage`
+ADD COLUMN `keyword` int(10) NULL DEFAULT '' AFTER `area`;
+
+SVN:4934   Author:张晓宇======================================================================
+DROP TABLE IF EXISTS `sample_bgi_info`;
+CREATE TABLE `sample_bgi_info` (
+  `bgiinfoid` int(11) NOT NULL AUTO_INCREMENT,
+  `hospital` varchar(255) DEFAULT '',
+  `ybbh` varchar(50) DEFAULT '',
+  `collectionTime` varchar(50) DEFAULT '',
+  `name` varchar(50) DEFAULT '',
+  `updateTime` varchar(50) DEFAULT '',
+  `updateName` varchar(50) DEFAULT NULL,
+  `inputTime` varchar(50) DEFAULT '',
+  `inputName` varchar(50) DEFAULT '',
+  PRIMARY KEY (`bgiinfoid`)
+) ENGINE=InnoDB AUTO_INCREMENT=137 DEFAULT CHARSET=utf8;
+
+Author:张晓宇======================================================================
+ALTER TABLE `sample_child`
+ADD COLUMN `ziran`  varchar(30) NULL DEFAULT '' AFTER `chaoshengyc`,
+ADD COLUMN `cpl`  varchar(30) NULL DEFAULT '' AFTER `ziran`,
+ADD COLUMN `iui`  varchar(30) NULL DEFAULT '' AFTER `cpl`;
+
+ALTER TABLE `yxy_yxyextractiondetails`
+MODIFY COLUMN `sampleTypeName`  varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `checkProjectName`;
+
+
+SVN:4899   Author:王家明======================================================================
+INSERT INTO `uscilims`.`sys_right`(`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES (377, b'1', 'customerconsult.jsp', '客户咨询', 'customerconsult!modulepage', NULL, NULL, 105, NULL);
+INSERT INTO `uscilims`.`sys_role_sys_right`(`sys_role_id`, `rights_id`) VALUES (1, 377);
+
+
+SVN:4864   Author:王家明======================================================================
+UPDATE `uscilims`.`sys_right` SET `isLeaf` = b'1', `jspPage` = 'indexmanagertumour.jsp', `moduleName` = '肿瘤index管理', `moduleUrl` = 'indexmanagertumour!modulepage', `rights` = '查看,修改,批量修改', `updateTime` = NULL, `parent_id` = 242, `rightSort` = NULL WHERE `id` = 329;
+UPDATE `uscilims`.`sys_right` SET `isLeaf` = b'1', `jspPage` = 'indexmanagerplus.jsp', `moduleName` = '生育线index管理', `moduleUrl` = 'indexmanagerplus!modulepage', `rights` = '查看,修改,批量修改', `updateTime` = NULL, `parent_id` = 40, `rightSort` = 5 WHERE `id` = 309;
+
+SVN:4839   Author:张晓宇======================================================================
+ALTER TABLE `zlygreport`
+ADD COLUMN `checkproject`  varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `updateTime`,
+ADD COLUMN `inputTime`  varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `checkproject`,
+ADD COLUMN `inputName`  varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `inputTime`;
+update  zlygreport  set checkproject='肿瘤易感基因检测' where checkproject is null;
+
+UPDATE `uscilims`.`sys_right` SET `id`='330', `isLeaf`='', `jspPage`='zlygreport.jsp', `moduleName`='肿瘤易感报告自动化', `moduleUrl`='zlygreport!modulepage', `rights`='查看,上传肿瘤易感Txt,生成Word报告,删除,上传慢性易感txt,高级搜索', `updateTime`=NULL, `parent_id`='172', `rightSort`=NULL WHERE (`id`='330');
+
+SVN:4814   Author:张晓宇======================================================================
+INSERT INTO `uscilims`.`sys_right` (`id`, `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('368', '', 'xinshairesult.jsp', '新筛结果反馈', 'xinshairesult!modulepage', '导入EXCEL,生成报告', NULL, '24', NULL);
+DROP TABLE IF EXISTS `inc_xinshairesult`;
+CREATE TABLE `inc_xinshairesult` (
+  `xinshairesultid` int(11) NOT NULL AUTO_INCREMENT,
+  `sampleno` varchar(20) DEFAULT NULL,
+  `ala` varchar(20) DEFAULT NULL,
+  `alavalue` varchar(20) DEFAULT NULL,
+  `val` varchar(20) DEFAULT NULL,
+  `valvalue` varchar(20) DEFAULT NULL,
+  `gly` varchar(20) DEFAULT NULL,
+  `glyvalue` varchar(20) DEFAULT NULL,
+  `orn` varchar(20) DEFAULT NULL,
+  `ornvalue` varchar(20) DEFAULT NULL,
+  `arg` varchar(20) DEFAULT NULL,
+  `argvalue` varchar(20) DEFAULT NULL,
+  `leu` varchar(20) DEFAULT NULL,
+  `leuvalue` varchar(20) DEFAULT NULL,
+  `met` varchar(20) DEFAULT NULL,
+  `metvalue` varchar(20) DEFAULT NULL,
+  `phe` varchar(20) DEFAULT NULL,
+  `phevalue` varchar(20) DEFAULT NULL,
+  `tyr` varchar(20) DEFAULT NULL,
+  `tyrvalue` varchar(20) DEFAULT NULL,
+  `cit` varchar(20) DEFAULT NULL,
+  `citvalue` varchar(20) DEFAULT NULL,
+  `pro` varchar(20) DEFAULT NULL,
+  `provalue` varchar(20) DEFAULT NULL,
+  `co` varchar(20) DEFAULT NULL,
+  `covalue` varchar(20) DEFAULT NULL,
+  `c2` varchar(20) DEFAULT NULL,
+  `c2value` varchar(20) DEFAULT NULL,
+  `c3` varchar(20) DEFAULT NULL,
+  `c3value` varchar(20) DEFAULT NULL,
+  `c4o` varchar(20) DEFAULT NULL,
+  `c4ovalue` varchar(20) DEFAULT NULL,
+  `c4` varchar(20) DEFAULT NULL,
+  `c4value` varchar(20) DEFAULT NULL,
+  `c5o` varchar(20) DEFAULT NULL,
+  `c5ovalue` varchar(20) DEFAULT NULL,
+  `c5` varchar(20) DEFAULT NULL,
+  `c5value` varchar(20) DEFAULT NULL,
+  `c51` varchar(20) DEFAULT NULL,
+  `c51value` varchar(20) DEFAULT NULL,
+  `c5d` varchar(20) DEFAULT NULL,
+  `c5dvalue` varchar(20) DEFAULT NULL,
+  `c6` varchar(20) DEFAULT NULL,
+  `c6value` varchar(20) DEFAULT NULL,
+  `c6dc` varchar(20) DEFAULT NULL,
+  `c6dcvalue` varchar(20) DEFAULT NULL,
+  `c8` varchar(20) DEFAULT NULL,
+  `c8value` varchar(20) DEFAULT NULL,
+  `c81` varchar(20) DEFAULT NULL,
+  `c81value` varchar(20) DEFAULT NULL,
+  `c10` varchar(20) DEFAULT NULL,
+  `c10value` varchar(20) DEFAULT NULL,
+  `c101` varchar(20) DEFAULT NULL,
+  `c101value` varchar(20) DEFAULT NULL,
+  `c102` varchar(20) DEFAULT NULL,
+  `c102value` varchar(20) DEFAULT NULL,
+  `c12` varchar(20) DEFAULT NULL,
+  `c12value` varchar(20) DEFAULT NULL,
+  `c121` varchar(20) DEFAULT NULL,
+  `c121value` varchar(20) DEFAULT NULL,
+  `c14` varchar(20) DEFAULT NULL,
+  `c14value` varchar(20) DEFAULT NULL,
+  `c141` varchar(20) DEFAULT NULL,
+  `c141value` varchar(20) DEFAULT NULL,
+  `c142` varchar(20) DEFAULT NULL,
+  `c142value` varchar(20) DEFAULT NULL,
+  `c14oh` varchar(20) DEFAULT NULL,
+  `c14ohvalue` varchar(20) DEFAULT NULL,
+  `c16` varchar(20) DEFAULT NULL,
+  `c16value` varchar(20) DEFAULT NULL,
+  `c161` varchar(20) DEFAULT NULL,
+  `c161value` varchar(20) DEFAULT NULL,
+  `c161o` varchar(20) DEFAULT NULL,
+  `c161ovalue` varchar(20) DEFAULT NULL,
+  `c16oh` varchar(20) DEFAULT NULL,
+  `c16ohvalue` varchar(20) DEFAULT NULL,
+  `c18` varchar(20) DEFAULT NULL,
+  `c18value` varchar(20) DEFAULT NULL,
+  `c181` varchar(20) DEFAULT NULL,
+  `c181value` varchar(20) DEFAULT NULL,
+  `c182` varchar(20) DEFAULT NULL,
+  `c182value` varchar(20) DEFAULT NULL,
+  `c181oh` varchar(20) DEFAULT NULL,
+  `c181ohvalue` varchar(20) DEFAULT NULL,
+  `c18oh` varchar(20) DEFAULT NULL,
+  `c18ohvalue` varchar(20) DEFAULT NULL,
+  `phetyr` varchar(20) DEFAULT NULL,
+  `phetyrvalue` varchar(20) DEFAULT NULL,
+  `argorn` varchar(20) DEFAULT NULL,
+  `argornvalue` varchar(20) DEFAULT NULL,
+  `citarg` varchar(20) DEFAULT NULL,
+  `citargvalue` varchar(20) DEFAULT NULL,
+  `orncit` varchar(20) DEFAULT NULL,
+  `orncitvalue` varchar(20) DEFAULT NULL,
+  `metphe` varchar(20) DEFAULT NULL,
+  `metphevalue` varchar(20) DEFAULT NULL,
+  `leuilephe` varchar(20) DEFAULT NULL,
+  `leuilephevalue` varchar(20) DEFAULT NULL,
+  `tyrphe` varchar(20) DEFAULT NULL,
+  `tyrphevalue` varchar(20) DEFAULT NULL,
+  `citphe` varchar(20) DEFAULT NULL,
+  `citphevalue` varchar(20) DEFAULT NULL,
+  `c3c2` varchar(20) DEFAULT NULL,
+  `c3c2value` varchar(20) DEFAULT NULL,
+  `c4ohc3dcc4` varchar(20) DEFAULT NULL,
+  `c4ohc3dcc4value` varchar(20) DEFAULT NULL,
+  `c4c2` varchar(20) DEFAULT NULL,
+  `c4c2value` varchar(20) DEFAULT NULL,
+  `c4c3` varchar(20) DEFAULT NULL,
+  `c4c3value` varchar(20) DEFAULT NULL,
+  `c4ohc3dcc10` varchar(20) DEFAULT NULL,
+  `c4ohc3dcc10value` varchar(20) DEFAULT NULL,
+  `c5c2` varchar(20) DEFAULT NULL,
+  `c5c2value` varchar(20) DEFAULT NULL,
+  `c5c3` varchar(20) DEFAULT NULL,
+  `c5c3value` varchar(20) DEFAULT NULL,
+  `c5dcc6ohc8` varchar(20) DEFAULT NULL,
+  `c5dcc6ohc8value` varchar(20) DEFAULT NULL,
+  `c5dcc6ohc16` varchar(20) DEFAULT NULL,
+  `c5dcc6ohc16value` varchar(20) DEFAULT NULL,
+  `c8c2` varchar(20) DEFAULT NULL,
+  `c8c2value` varchar(20) DEFAULT NULL,
+  `c8c10` varchar(20) DEFAULT NULL,
+  `c8c10value` varchar(20) DEFAULT NULL,
+  `c10c3` varchar(20) DEFAULT NULL,
+  `c10c3value` varchar(20) DEFAULT NULL,
+  `c14c3` varchar(20) DEFAULT NULL,
+  `c14c3value` varchar(20) DEFAULT NULL,
+  `c141c2` varchar(20) DEFAULT NULL,
+  `c141c2value` varchar(20) DEFAULT NULL,
+  `c141c16` varchar(20) DEFAULT NULL,
+  `c141c16value` varchar(20) DEFAULT NULL,
+  `c16c2` varchar(20) DEFAULT NULL,
+  `c16c2value` varchar(20) DEFAULT NULL,
+  `c18c3` varchar(20) DEFAULT NULL,
+  `c18c3value` varchar(20) DEFAULT NULL,
+  `c16c181c2` varchar(20) DEFAULT NULL,
+  `c16c181c2value` varchar(20) DEFAULT NULL,
+  `c0c16c18` varchar(20) DEFAULT NULL,
+  `c0c16c18value` varchar(20) DEFAULT NULL,
+  `c3c0` varchar(20) DEFAULT NULL,
+  `c3c0value` varchar(20) DEFAULT NULL,
+  `c102c10` varchar(20) DEFAULT NULL,
+  `c102c10value` varchar(20) DEFAULT NULL,
+  `c5c0` varchar(20) DEFAULT NULL,
+  `c5c0value` varchar(20) DEFAULT NULL,
+  `c16ohc3` varchar(20) DEFAULT NULL,
+  `c16ohc3value` varchar(20) DEFAULT NULL,
+  `c5ohc4dcc0` varchar(20) DEFAULT NULL,
+  `c5ohc4dcc0value` varchar(20) DEFAULT NULL,
+  `c5ohc4dcc8` varchar(20) DEFAULT NULL,
+  `c5ohc4dcc8value` varchar(20) DEFAULT NULL,
+  `valphe` varchar(20) DEFAULT NULL,
+  `valphevalue` varchar(20) DEFAULT NULL,
+  `argphe` varchar(20) DEFAULT NULL,
+  `argphevalue` varchar(20) DEFAULT NULL,
+  `ornphe` varchar(20) DEFAULT NULL,
+  `ornphevalue` varchar(20) DEFAULT NULL,
+  `c5dcc6ohc5ohc4dc` varchar(20) DEFAULT NULL,
+  `c5dcc6ohc5ohc4dcvalue` varchar(20) DEFAULT NULL,
+  `c16ohc16` varchar(20) DEFAULT NULL,
+  `c16ohc16value` varchar(20) DEFAULT NULL,
+  `tyrcit` varchar(20) DEFAULT NULL,
+  `tyrcitvalue` varchar(20) DEFAULT NULL,
+  `inputname` varchar(20) DEFAULT NULL,
+  `inputtime` varchar(20) DEFAULT NULL,
+  `updatename` varchar(20) DEFAULT NULL,
+  `updatetime` varchar(20) DEFAULT NULL,
+  `suggestions` varchar(200) DEFAULT NULL,
+  `reportState` varchar(20) DEFAULT NULL,
+  PRIMARY KEY (`xinshairesultid`)
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8;
+
+
+
+SVN:4807   Author:郭强======================================================================
+INSERT INTO `uscilims`.`tum_package` ( `proID`, `reportTemplate`, `tum_package`, `updateName`, `updateTime`, `tumProductId`) VALUES ('6', '优替--乳腺癌21基因', '优替--乳腺癌21基因', '管理员', '2019-01-40 11:40:43', '6');
+INSERT INTO `uscilims`.`tum_package` ( `proID`, `reportTemplate`, `tum_package`, `updateName`, `updateTime`, `tumProductId`) VALUES ('6', '优替--MSI（肿瘤细胞微卫星不稳定性检测）', '优替--MSI（肿瘤细胞微卫星不稳定性检测）', '管理员', '2019-01-40 11:40:43', '6');
+
+SVN:4769   Author:张晓宇======================================================================
+ALTER TABLE `sample_experimentalabnormal`
+ADD COLUMN `isRed`  varchar(10) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT '0' AFTER `strategy`;
+
+SVN:4747   Author:郭强 ======================================================================
+INSERT INTO `uscilims`.`sys_right` ( `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ( '1', 'tumourqualitycontrolzhu.jsp', '肿瘤质控记录', 'tumourqualitycontrolzhu!modulepage', '查看', NULL, '364', NULL);
+INSERT INTO `uscilims`.`sys_right` (`isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('1', 'tumourabnormalzhu.jsp', '肿瘤质控异常记录', 'tumourabnormalzhu!modulepage', '查看,处理方式,批量推送', NULL, '364', NULL);
+INSERT INTO `uscilims`.`sys_right` ( `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ('0', NULL, '肿瘤质控', NULL, NULL, NULL, '24', NULL);
+
+SVN:4744   Author:刘楠======================================================================
+INSERT INTO `uscilims`.`sys_right`(`isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES (b'1', 'temporarySample.jsp', '暂存样本', 'temporarysample!modulepage', '样本中心确认', NULL, 19, NULL);
+ALTER TABLE `uscilims`.`zljy_zcyb` 
+MODIFY COLUMN `sampleno` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `id`,
+ADD COLUMN `confirm` varchar(50) NULL AFTER `inputname`,
+ADD COLUMN `confirmName` varchar(50) NULL AFTER `confirm`,
+ADD COLUMN `confirmTime` varchar(50) NULL AFTER `confirmName`;
+SVN:4720   Author:王家明 ======================================================================
+UPDATE `uscilims`.`sys_right` SET `isLeaf` = b'1', `jspPage` = 'tumourreportreview.jsp', `moduleName` = '肿瘤审核', `moduleUrl` = 'tumourreportreview!modulepage', `rights` = '查看,客服部审核,质量部审核,无权限,错误记录,导出错误记录,修改状态,高级搜索', `updateTime` = NULL, `parent_id` = 28, `rightSort` = NULL WHERE `id` = 68;
+UPDATE `uscilims`.`sys_right` SET `isLeaf` = b'1', `jspPage` = 'yxyreportreview.jsp', `moduleName` = '生育线报告审核', `moduleUrl` = 'yxyreportreview!modulepage', `rights` = '查看,客服审核,质量审核,删除,错误记录,导出错误记录,修改审核状态,高级搜索', `updateTime` = NULL, `parent_id` = 28, `rightSort` = NULL WHERE `id` = 254;
+
+SVN:4700   Author:王家明 ======================================================================
+ALTER TABLE `sample_experimentalabnormal`
+ADD COLUMN `strategy`  varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `processTime`,
+
+
+SVN:4498   Author:张晓宇 ======================================================================
+INSERT INTO `uscilims`.`sample_actionpath` (`actionPathId`, `actionName`, `flowPathModuleName`, `flowPathNo`, `entityName`, `processMode`) VALUES ('11', '', '优馨益提取', 'a', 'yxyExtraction', '重提取');
+INSERT INTO `uscilims`.`sample_actionpath` (`actionPathId`, `actionName`, `flowPathModuleName`, `flowPathNo`, `entityName`, `processMode`) VALUES ('12', '', '优馨益建库', 'b', 'yxyBuild', '重建库');
+
+UPDATE `uscilims`.`sample_flowpath` SET `flowPathId`='8', `checkProjectName`='优馨益-孕产期', `plowPath`='045876', `sampleTypeName`='优馨益' WHERE (`flowPathId`='8');
+INSERT INTO `uscilims`.`sample_flowpath` (`flowPathId`, `checkProjectName`, `plowPath`, `sampleTypeName`) VALUES ('9', '优馨益', '0ab76', '优馨益');
+
+UPDATE `uscilims`.`sample_checkproject` SET `checkProjectId`='149', `checkProductId`='2', `checkProjectName`='孕产期健康--妊娠糖尿病', `checkProductName`='优馨益-孕产期', `productCategory`='产前', `code`='YQ00G' WHERE (`checkProjectId`='149');
+UPDATE `uscilims`.`sample_checkproject` SET `checkProjectId`='146', `checkProductId`='2', `checkProjectName`='孕产期健康--微量元素6项', `checkProductName`='优馨益-孕产期', `productCategory`='产前', `code`='YQ00G' WHERE (`checkProjectId`='146');
+UPDATE `uscilims`.`sample_checkproject` SET `checkProjectId`='145', `checkProductId`='2', `checkProjectName`='孕产期健康--维生素10项', `checkProductName`='优馨益-孕产期', `productCategory`='产前', `code`='YQ00G' WHERE (`checkProjectId`='145');
+UPDATE `uscilims`.`sample_checkproject` SET `checkProjectId`='144', `checkProductId`='2', `checkProjectName`='孕产期健康--营养吸收与代谢套餐', `checkProductName`='优馨益-孕产期', `productCategory`='产前', `code`='YQ00G' WHERE (`checkProjectId`='144');
+
+
+SVN:4685   Author:张晓宇 ======================================================================
+ALTER TABLE `sample_experimentalabnormal`
+ADD COLUMN `processName`  varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `clsuggestion`,
+ADD COLUMN `processTime`  varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL AFTER `processName`;
+
+
+SVN:4675   Author:刘楠 ======================================================================
+-- ----------------------------
+-- Table structure for pm_sypmorder_details
+-- ----------------------------
+DROP TABLE IF EXISTS `pm_sypmorder_details`;
+CREATE TABLE `pm_sypmorder_details`  (
+  `tid` int(11) NOT NULL AUTO_INCREMENT,
+  `pmorderNo` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+  `stockinDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `stockoutDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL,
+  `stockouter` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `biologicalcomputerDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `biologicalcomputer` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `analysisresulter` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `reportissueDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `reportissueer` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `reviewState` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `updateTime` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+  `updateName` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+  `analysisresultDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `checkProject` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `checkProjectq` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+  `sampleGtasksId` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `sampleNo` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `remark` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `sampleType` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `inputTime` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `inputName` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `buildFeedbackSampleNo` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `orderIndexNo` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `orderProbe` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `orderScope` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  PRIMARY KEY (`tid`, `checkProjectq`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 10785 CHARACTER SET = utf8 COLLATE = utf8_unicode_ci ROW_FORMAT = Compact;
+
+SVN:4663   Author:刘楠 ======================================================================
+ALTER TABLE `uscilims`.`pretreat_circlewarn` 
+DROP COLUMN `lastDatey`,
+ADD COLUMN `lastDatey` varchar(50) NULL AFTER `outTime`;
+SVN:4638   Author:刘楠 ======================================================================
+DROP TABLE IF EXISTS `pm_tumourpmorder_details`;
+CREATE TABLE `pm_tumourpmorder_details`  (
+  `tid` int(11) NOT NULL AUTO_INCREMENT,
+  `pmorderNo` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `stockinDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `stockoutDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_unicode_ci NULL DEFAULT NULL,
+  `stockouter` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `biologicalcomputerDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `biologicalcomputer` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `analysisresulter` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `reportissueDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `reportissueer` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `reviewState` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `updateTime` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `updateName` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `analysisresultDate` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `checkProject` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `checkProjectq` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `sampleGtasksId` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `sampleNo` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `remark` varchar(200) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `sampleType` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `inputTime` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `inputName` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  PRIMARY KEY (`tid`) USING BTREE,
+  INDEX `sampleNo`(`sampleNo`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 1 CHARACTER SET = utf8 COLLATE = utf8_unicode_ci ROW_FORMAT = Compact;
+
+SET FOREIGN_KEY_CHECKS = 1;
+
+SVN:4635   Author:周晓锋 ======================================================================
+UPDATE sys_right SET rights = '查看,修改,项目管理处理,样本中心确认,高级搜索,导出,邮件通知销售,删除' WHERE moduleName = '异常样本'
+
+SVN:4589   Author:郭强 ======================================================================
+=======
+﻿SVN:4595   Author:刘楠 ======================================================================
+UPDATE pretreat_circlewarn a
+SET xxfxTimess=(
+SELECT f.`analysisTime` FROM tum_tumourana f WHERE f.analysisState='已反馈' AND REPLACE (f.`sampleNo`,'PM00G','PM00B')=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY f.tumouranaId DESC) WHERE a.checkProject NOT LIKE '%优逸%' AND line='肿瘤' AND LEFT (a.`sampleNo`,5)='PM00B';
+UPDATE pretreat_circlewarn a
+SET ycjdTimess=(
+SELECT j.inputTime FROM tum_tumourreportreview j WHERE REPLACE (j.`sampleNo`,'PM00G','PM00B')=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY j.tumourReportReviewId DESC) WHERE line='肿瘤' AND LEFT (a.`sampleNo`,5)='PM00B';
+UPDATE pretreat_circlewarn a
+SET reportreviewTimess=(
+SELECT j1.`reportReviewTime` FROM tum_tumourreportreview j1 WHERE j1.reportState !='不通过' AND REPLACE (j1.`sampleNo`,'PM00G','PM00B')=a.`sampleNo` GROUP BY a.`SampleNo` ORDER BY j1.tumourReportReviewId DESC) WHERE line='肿瘤' AND LEFT (a.`sampleNo`,5)='PM00B';
+UPDATE pretreat_circlewarn a
+SET reportissueTimess=(
+SELECT l.emailSendTime FROM tum_tumourreportissue l WHERE REPLACE (l.`sampleNo`,'PM00G','PM00B')=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY l.tumourReportIssueId DESC) WHERE line='肿瘤' AND LEFT (a.`sampleNo`,5)='PM00B';
+
+
+SVN:4589   Author:郭强 ======================================================================
+>>>>>>> .r4596
+UPDATE `uscilims`.`sys_right` SET `id`='333', `isLeaf`='', `jspPage`='sy_outsource.jsp', `moduleName`='生育线外送样本管理', `moduleUrl`='outsource!modulepage', `rights`='高级搜索,样本中心批量,项目管理批量,实验中心批量,地贫,耳聋,新筛,叶酸,全部,导出耳聋送检单,导出EXCEL', `updateTime`=NULL, `parent_id`='18', `rightSort`=NULL WHERE (`id`='333');
+UPDATE `uscilims`.`sys_right` SET `id`='334', `isLeaf`='', `jspPage`='tumour_outsource.jsp', `moduleName`='肿瘤线外送样本管理', `moduleUrl`='outsource!modulepage2', `rights`='高级搜索,样本中心批量,项目管理批量,实验中心批量,21基因,MSI,PD-L1,化疗,优睿,全部,添加样本,导出EXCEL', `updateTime`=NULL, `parent_id`='18', `rightSort`=NULL WHERE (`id`='334');
+
+SVN:4574   Author:周晓锋 ======================================================================
+UPDATE sys_right SET rights = '查看,项目管理确认,实验领导确认,高级搜索,导出EXCEL,删除' WHERE moduleName = '部门确认退款'
+
+SVN:4530   Author:郭强 ======================================================================
+UPDATE `uscilims`.`sys_right` SET `id`='135', `isLeaf`='', `jspPage`='biologicalcomputerinfozhu.jsp', `moduleName`='上机信息单', `moduleUrl`='biologicalcomputerinfozhu!modulepage', `rights`='查看,核查,上传信息单,BGI上传信息单,高级搜素', `updateTime`=NULL, `parent_id`='49', `rightSort`=NULL WHERE (`id`='135');
+
+SVN:4525   Author:刘楠 ======================================================================
+ALTER TABLE `uscilims`.`pretreat_circlewarn` 
+ADD COLUMN `pretreatmentTimess` varchar(200) NULL AFTER `warnStateUpdateTime`,
+ADD COLUMN `extractionTimess` varchar(200) NULL AFTER `pretreatmentTimess`,
+ADD COLUMN `buildTimess` varchar(200) NULL AFTER `extractionTimess`,
+ADD COLUMN `hybridTimess` varchar(200) NULL AFTER `buildTimess`,
+ADD COLUMN `biologicalComputerTimess` varchar(200) NULL AFTER `hybridTimess`,
+ADD COLUMN `xxfxTimess` varchar(200) NULL AFTER `biologicalComputerTimess`,
+ADD COLUMN `ycjdTimess` varchar(200) NULL AFTER `xxfxTimess`,
+ADD COLUMN `custReportreviewTimess` varchar(200) NULL AFTER `ycjdTimess`,
+ADD COLUMN `reportreviewTimess` varchar(200) NULL AFTER `custReportreviewTimess`,
+ADD COLUMN `reportissueTimess` varchar(200) NULL AFTER `reportreviewTimess`,
+ADD COLUMN `outBiologicalComputerTimess` varchar(200) NULL AFTER `reportissueTimess`,
+ADD COLUMN `outSendTimess` varchar(200) NULL AFTER `outBiologicalComputerTimess`,
+ADD COLUMN `outReceiveTimess` varchar(200) NULL AFTER `outSendTimess`,
+ADD COLUMN `outTime` varchar(200) NULL AFTER `outReceiveTimess`;
+INSERT INTO `uscilims`.`sys_right`( `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ( b'1', 'sy_circlewarn_new.jsp', '生育线周期预警2', 'newsypretreatcirclewarn!modulepage', '查看,高级搜索,导出Excel,批量提取,批量建库,批量上机,批量信息分析,批量遗传解读,添加备注,检前周转统计', NULL, 103, NULL);
+INSERT INTO `uscilims`.`sys_right`( `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ( b'1', 'pmorder_manage_new.jsp', '项目管理-样本进度2', 'newpmordermanage!modulepage', '高级搜索,导出Excel,批量延期备注,批量特殊备注,修改当前进度', NULL, 103, NULL);
+INSERT INTO `uscilims`.`sys_right`( `isLeaf`, `jspPage`, `moduleName`, `moduleUrl`, `rights`, `updateTime`, `parent_id`, `rightSort`) VALUES ( b'1', 'tumour_circlewarn_new.jsp', '肿瘤线周期预警2', 'newpretreatcirclewarn!modulepage', '查看,高级搜索,导出Excel,批量提取,批量建库,批量杂交,添加备注', NULL, 103, NULL);
+UPDATE pretreat_circlewarn a
+ SET extractionTimess=(
+SELECT f1.`extractionTimess` FROM na_nucleicacidsdetails f1 WHERE f1.`originalSampleNo`=a.`sampleNo` GROUP BY f1.`originalSampleNo` ORDER BY nucleicacidsDetailsId DESC) where line='生育';
+UPDATE pretreat_circlewarn a
+ SET buildTimess=(
+SELECT h1.`buildTimess` FROM bl_buildlibrariesdetails  h1 where  h1.`feedBackState` = '已反馈' AND h1.`originalSampleNo` = a.`sampleNo`  GROUP BY h1.`originalSampleNo` ORDER BY buildLibrariesDetailsId DESC)where line='生育';
+UPDATE pretreat_circlewarn a
+ SET biologicalComputerTimess=(
+SELECT i.biologicalComputerTimess FROM sx_biologicalcomputerinfo i WHERE i.`orderSampleNo`=a.`sampleNo` GROUP BY i.`orderSampleNo` ORDER BY i.biologicalComputerInfoId DESC)where line='生育';
+UPDATE pretreat_circlewarn a 
+SET xxfxTimess=(
+SELECT n.`fxTime` FROM np_niptplus n WHERE n.`sampleID`=a.`sampleNo` GROUP BY n.`sampleID` ORDER BY n.niptplusId DESC) WHERE a.checkProject='优馨安--无创产前基因检测(NIPT plus)' and line='生育';
+UPDATE pretreat_circlewarn a 
+SET xxfxTimess=(
+SELECT o.`fkupdateTime` FROM yxy_result o WHERE (o.`fkState`='合格' OR o.`fkState`='不合格') AND o.`sampleNo`=a.`sampleNo` GROUP BY o.`sampleNo` ORDER BY o.id DESC) WHERE LEFT (a.sampleNo,2)='LC' and line='生育';
+UPDATE pretreat_circlewarn a
+ SET xxfxTimess=(
+SELECT j.inputTime FROM report_yxy_reportreview j WHERE j.`sampleNo` = a.`sampleNo` GROUP BY j.`sampleNo` ORDER BY j.rrid DESC) WHERE LEFT (a.sampleNo,2)!='LC' AND a.checkProject not like '%优馨安%' and line='生育';
+UPDATE pretreat_circlewarn a 
+SET xxfxTimess=(
+SELECT j.inputTime FROM report_reportreview j WHERE j.`reportSampleNo` = a.`sampleNo` GROUP BY j.`reportSampleNo` ORDER BY j.reportReviewId DESC) WHERE LEFT (a.sampleNo,2)!='LC' AND a.checkProject like '%优馨安%' and line='生育';
+UPDATE pretreat_circlewarn a 
+SET ycjdtimess=(
+SELECT j.inputTime FROM report_yxy_reportreview j WHERE j.`sampleNo` = a.`sampleNo` GROUP BY j.`sampleNo` ORDER BY j.rrid DESC)where  line='生育' and a.checkProject not like '%优馨安%';
+UPDATE pretreat_circlewarn a 
+SET ycjdTimess=(
+SELECT j.inputTime FROM report_reportreview j WHERE j.`reportSampleNo` = a.`sampleNo` GROUP BY j.`reportSampleNo` ORDER BY j.reportReviewId DESC) where line='生育' and a.checkProject like '%优馨安%';
+UPDATE pretreat_circlewarn a 
+SET reportreviewTimess=(
+SELECT j1.`reportReviewTime` FROM report_reportreview j1 where  j1.reportState!='不通过' and  j1.`reportSampleNo` = a.`sampleNo` GROUP BY  j1.`reportSampleNo` ORDER BY j1.reportReviewId DESC)where line='生育' and a.checkProject like '%优馨安%' ;
+UPDATE pretreat_circlewarn a 
+SET custReportreviewTimess=(
+SELECT k1.`reportReviewTimeCust` FROM report_yxy_reportreview k1 where   k1.reportState!='不通过' and k1.`sampleNo` = a.`sampleNo` GROUP BY  k1.`sampleNo` ORDER BY k1.rrid DESC) where line='生育' and a.checkProject not like '%优馨安%';
+UPDATE pretreat_circlewarn a 
+SET reportreviewTimess=(
+SELECT k1.`reportReviewTime` FROM report_yxy_reportreview k1 where   k1.reportState!='不通过' and k1.`sampleNo` = a.`sampleNo` GROUP BY  k1.`sampleNo` ORDER BY k1.rrid DESC) where line='生育' and a.checkProject not like '%优馨安%';
+UPDATE pretreat_circlewarn a 
+SET reportissueTimess=(
+SELECT l.reportDate FROM report_reportissue l where l.`reportSampleNo` = a.`sampleNo` GROUP BY  l.`reportSampleNo` ORDER BY l.reportIssueId DESC) where line='生育' and( reportissueTimess is null or reportissueTimess='') and a.checkProject like '%优馨安%';
+UPDATE pretreat_circlewarn a 
+SET reportissueTimess=(
+SELECT l.reportDate FROM report_yxy_reportissue l where l.`SampleNo` = a.`sampleNo` GROUP BY  l.`SampleNo` ORDER BY l.rrid DESC)where line='生育' and( reportissueTimess is null or reportissueTimess='') and a.checkProject not like '%优馨安%' ;
+UPDATE pretreat_circlewarn a 
+SET reportissueTimess=(
+SELECT l.emailSendTime FROM report_yxy_reportissue l where l.`SampleNo` = a.`sampleNo` GROUP BY  l.`SampleNo` ORDER BY l.rrid DESC) where line='生育' and( reportissueTimess is null or reportissueTimess='') and a.checkProject not like '%优馨安%';
+UPDATE pretreat_circlewarn a 
+SET reportissueTimess=(
+SELECT l.emailSendTime FROM report_reportissue l where l.`reportSampleNo` = a.`sampleNo` GROUP BY  l.`reportSampleNo` ORDER BY l.reportIssueId DESC)where line='生育' and( reportissueTimess is null or reportissueTimess='') and a.checkProject like '%优馨安%' ;
+UPDATE pretreat_circlewarn a
+ SET outSendTimess=(
+SELECT q.sendTime FROM sample_outsource q WHERE q.`SampleNo`=a.sampleNo GROUP BY q.`SampleNo` ORDER BY q.tid DESC)where line='生育' ;
+UPDATE pretreat_circlewarn a 
+SET outReceiveTimess=(
+SELECT q.receiveTime FROM sample_outsource q WHERE q.`SampleNo`=a.sampleNo GROUP BY q.`SampleNo` ORDER BY q.tid DESC)where line='生育';
+UPDATE pretreat_circlewarn a 
+SET outtime = ( SELECT p.inputTime FROM sample_outsample p where p.`outSampleNo` = a.sampleNo );
+UPDATE pretreat_circlewarn a
+ SET extractionTimess=realExtram WHERE extractionTimess IS NULL OR extractionTimess='';
+UPDATE pretreat_circlewarn a
+ SET buildTimess=realBuild WHERE buildTimess IS NULL OR buildTimess='';
+UPDATE pretreat_circlewarn a 
+SET xxfxTimess=realXxfx WHERE xxfxTimess IS NULL OR xxfxTimess='';
+UPDATE pretreat_circlewarn a
+ SET extractionTimess=(
+SELECT c.`extractionTimess` FROM eb_tumourextractiondetails c WHERE c.feedBackState='已审核' AND c.`originalSampleNo`=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY tumourExtractionDetailsId DESC) WHERE line='肿瘤';
+UPDATE pretreat_circlewarn a 
+SET buildTimess=(
+SELECT d.`buildTimess` FROM eb_tumourbuilddetails d WHERE d.feedBackState='已反馈' AND d.`originalSampleNo`=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY tumourBuildDetailsId DESC) WHERE line='肿瘤';
+UPDATE pretreat_circlewarn a 
+SET hybridTimess=(
+SELECT m.`hybridTimess` FROM eb_tumourhybriddetails m WHERE m.feedBackState='已审核' AND m.`originalSampleNo`=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY tumourHybridDetailsId DESC) WHERE line='肿瘤';
+UPDATE pretreat_circlewarn a 
+SET xxfxTimess=(
+SELECT f.`analysisTime` FROM tum_tumourana f WHERE f.analysisState='已反馈' AND f.`sampleNo`=a.`sampleNo` GROUP BY a.`sampleNo` ORDER BY f.tumouranaId DESC) WHERE a.checkProject NOT LIKE '%优逸%' AND line='肿瘤';
+UPDATE pretreat_circlewarn a 
+SET xxfxTimess=(
+SELECT g.`analysisTime` FROM yy_analyse g where  g.analysisState='已反馈' AND g.`sampleNo`=a.`sampleNo`  GROUP BY a.`sampleNo` ORDER BY g.tid DESC) WHERE a.checkProject  LIKE '%优逸%' AND line='肿瘤';
+UPDATE pretreat_circlewarn a
+ SET ycjdTimess=(
+SELECT j.inputTime FROM tum_tumourreportreview j WHERE j.`sampleNo`=a.`sampleNo` GROUP BY j.`sampleNo` ORDER BY j.tumourReportReviewId DESC) WHERE line='肿瘤';
+UPDATE pretreat_circlewarn a 
+SET reportreviewTimess=(
+SELECT j1.`reportReviewTime` FROM tum_tumourreportreview j1 WHERE j1.reportState !='不通过' AND j1.`SampleNo`=a.`sampleNo` GROUP BY j1.`SampleNo` ORDER BY j1.tumourReportReviewId DESC) WHERE line='肿瘤';
+UPDATE pretreat_circlewarn a
+ SET custReportreviewTimess=(
+SELECT k1.`custReportReviewTime` FROM tum_tumourreportreview k1 WHERE k1.reportState !='不通过' AND k1.`sampleNo`=a.`sampleNo` GROUP BY k1.`sampleNo` ORDER BY k1.tumourReportReviewId DESC) WHERE line='肿瘤';
+UPDATE pretreat_circlewarn a 
+SET reportissueTimess=(
+SELECT l.emailSendTime FROM tum_tumourreportissue l WHERE l.`sampleNo`=a.`sampleNo` GROUP BY l.`sampleNo` ORDER BY l.tumourReportIssueId DESC) WHERE line='肿瘤';
+
+SVN:5855   Author:张孟鑫 ======================================================================
+INSERT INTO sample_checkproject(`checkProductId`,`checkProjectName`,`checkProductName`,`productCategory`,`code`)
+VALUE (9,'优睿--血液肿瘤一体化检测','优睿','肿瘤',''),
+VALUE (9,'优睿--血液肿瘤突变加做（44基因）','优睿','肿瘤',''),
+VALUE (9,'优睿--融合基因定性检测','优睿','肿瘤','');
+
+UPDATE sample_checkproject SET checkProjectName='优睿--融合基因检测（1200+种融合）' WHERE checkProjectName = '优睿--高级套餐-225基因(900+种融合)';

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.main{ width:1000px; background:#fff;margin:auto;}
+.box{ width:940px;  margin:auto; padding-top:30px;  }
+.but2{  background:none; border:0; background:#8cb872; width:30%; border-radius:5px; height:35px; color:#fff; font-size:14px;
+ cursor:pointer;}
+ .but2:hover{ background:#8ec74c;}
+ 
+ .but3{ background:none; border:0; background:#69C;  width:100px; height:28px; color:#fff; border-radius:5px; cursor:pointer;
+ margin-left:20px; margin-top:5px; margin-bottom:5px;float: left;}
+ 
+.tab4{ border-top:none; text-align:center; font-size:12px; line-height:24px; margin-bottom:50px;border-collapse:collapse;} 
+.tab4 .delete a{ color:#F00;cursor: pointer;} 
+
+.tab5{ border-top:none; text-align:center; font-size:12px; line-height:24px; margin-bottom:50px;border-collapse:collapse;}
+.tab5 .delete a{ color:#F00;cursor: pointer;} 
+.text5{width:100%;border:none;}
+.phone h3{ text-align:center; border-bottom:1px solid #d8d8d8; color:#666; line-height:50px;}
+.phone h3 span{ float:right; background:url(../image/gb.png) no-repeat; width:16px; height:16px; margin:20px; cursor:pointer}
+.phone p{  margin-right:100px; margin-top:16px; font-size:28px; float:right;}
+
+
+ /*提示*/
+ .tishi{ width:100%; background:#e55555}
+  .tishi p{ color:#fff; font-size:16px; text-align:center; line-height:50px; margin-top:10px;}

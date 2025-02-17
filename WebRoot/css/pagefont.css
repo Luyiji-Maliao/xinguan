@@ -1,0 +1,57 @@
+
+.x-tree-node{font-size:12px }
+.x-panel-header{font-size:13px}
+.x-tree-node-expanded .x-tree-node-icon {
+    background-image: url("../images/menu_icon_catalog.gif");
+    font-size: 12px;
+}
+.x-tree-node-leaf .x-tree-node-icon {
+    background-image: url("../images/menu_icon_viewrelatedrecord4srvgrp.gif");
+    font-size: 12px;
+}
+
+.x-tree-node-collapsed .x-tree-node-icon {
+    background-image: url("../images/menu_icon_catalog.gif");
+    font-size: 12px;
+}
+
+
+
+
+.x-tree-lines .x-tree-ec-over  .x-tree-elbow-plus {
+    background-position: -32px 0;
+}
+.x-tree-lines .x-tree-ec-over  .x-tree-elbow-minus {
+    background-position: -48px 0;
+}
+.x-tree-lines .x-tree-ec-over  .x-tree-elbow-end-plus {
+    background-position: -32px 0;
+}
+.x-tree-lines .x-tree-ec-over  .x-tree-elbow-end-minus {
+    background-position: -48px 0;
+}
+
+.x-tree-lines .x-tree-elbow-plus {
+    background-image: url("../images/arrow.gif");
+}
+.x-tree-lines .x-tree-elbow-minus {
+    background-image: url("../images/arrow.gif");
+	  background-position: -16px 0;
+}
+
+.x-tree-lines .x-tree-elbow-end-plus {
+    background-image: url("../images/arrow.gif");
+}
+.x-tree-lines .x-tree-elbow-end-minus {
+    background-image: url("../images/arrow.gif");
+  
+    
+}
+.x-tree-lines .x-tree-elbow-minus { background-position: -16px 0;}
+.x-tree-lines .x-tree-elbow-end-minus {  background-position: -16px 0;}
+
+
+
+.x-tree-node-indent > .x-tree-icon{width:0px;}
+.x-tree-node-indent > .x-tree-elbow-line{width:0px;}
+ 

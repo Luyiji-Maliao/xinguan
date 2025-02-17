@@ -1,0 +1,8806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage">
+    <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml"
+              pkg:padding="512">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId3"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties"
+                              Target="docProps/app.xml"/>
+                <Relationship Id="rId2"
+                              Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties"
+                              Target="docProps/core.xml"/>
+                <Relationship Id="rId1"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument"
+                              Target="word/document.xml"/>
+                <Relationship Id="rId4"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/custom-properties"
+                              Target="docProps/custom.xml"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/_rels/document.xml.rels"
+              pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId8"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes"
+                              Target="endnotes.xml"/>
+                <Relationship Id="rId13"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable"
+                              Target="fontTable.xml"/>
+                <Relationship Id="rId3"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering"
+                              Target="numbering.xml"/>
+                <Relationship Id="rId7"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes"
+                              Target="footnotes.xml"/>
+                <Relationship Id="rId12"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+                              Target="media/qrcode.jpeg"/>
+                <Relationship Id="rId2"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml"
+                              Target="../customXml/item2.xml"/>
+                <Relationship Id="rId1"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml"
+                              Target="../customXml/item1.xml"/>
+                <Relationship Id="rId6"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings"
+                              Target="webSettings.xml"/>
+                <Relationship Id="rId11"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+                              Target="media/image2.jpeg"/>
+                <Relationship Id="rId5"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings"
+                              Target="settings.xml"/>
+                <Relationship Id="rId10"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer"
+                              Target="footer1.xml"/>
+                <Relationship Id="rId4"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles"
+                              Target="styles.xml"/>
+                <Relationship Id="rId9"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header"
+                              Target="header1.xml"/>
+                <Relationship Id="rId14"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme"
+                              Target="theme/theme1.xml"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/document.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+        <pkg:xmlData>
+            <w:document mc:Ignorable="w14 w15 wp14"
+                        xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                        xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                        xmlns:v="urn:schemas-microsoft-com:vml"
+                        xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                        xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                        xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                        xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                        xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                        xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:body>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:before="120" w:afterLines="50" w:after="156" w:line="360" w:lineRule="auto"/>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:sz w:val="32"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:sz w:val="32"/>
+                            </w:rPr>
+                            <w:t>叶酸代谢能力基因检测</w:t>
+                        </w:r>
+                    </w:p>
+                    <#--<w:tbl>-->
+                        <#--<w:tblPr>-->
+                            <#--<w:tblStyle w:val="a5"/>-->
+                            <#--<w:tblW w:w="9315" w:type="dxa"/>-->
+                            <#--<w:jc w:val="center"/>-->
+                            <#--<w:tblBorders>-->
+                                <#--<w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                <#--<w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>-->
+                                <#--<w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                <#--<w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>-->
+                                <#--<w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>-->
+                                <#--<w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>-->
+                            <#--</w:tblBorders>-->
+                            <#--<w:tblLayout w:type="fixed"/>-->
+                            <#--<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"-->
+                                       <#--w:noHBand="0" w:noVBand="1"/>-->
+                        <#--</w:tblPr>-->
+                        <#--<w:tblGrid>-->
+                            <#--<w:gridCol w:w="2410"/>-->
+                            <#--<w:gridCol w:w="2977"/>-->
+                            <#--<w:gridCol w:w="3928"/>-->
+                        <#--</w:tblGrid>-->
+                        <#--<w:tr w:rsidR="008A3D7E">-->
+                            <#--<w:trPr>-->
+                                <#--<w:trHeight w:val="567"/>-->
+                                <#--<w:jc w:val="center"/>-->
+                            <#--</w:trPr>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="5387" w:type="dxa"/>-->
+                                    <#--<w:gridSpan w:val="2"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="nil"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>检测项目：叶酸代谢能力基因检测</w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="3928" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="nil"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>样本编号：</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>${s1}</w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                        <#--</w:tr>-->
+                        <#--<w:tr w:rsidR="008A3D7E">-->
+                            <#--<w:trPr>-->
+                                <#--<w:trHeight w:val="567"/>-->
+                                <#--<w:jc w:val="center"/>-->
+                            <#--</w:trPr>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="2410" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="nil"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="nil"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>姓</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t xml:space="preserve"> </w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>名：</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>${s2}</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t xml:space="preserve"> </w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="2977" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="nil"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="nil"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>采集日期：</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>${s7}</w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="3928" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="nil"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="nil"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>送检单位：${s3}</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t xml:space="preserve"> </w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                        <#--</w:tr>-->
+                        <#--<w:tr w:rsidR="008A3D7E">-->
+                            <#--<w:trPr>-->
+                                <#--<w:trHeight w:val="567"/>-->
+                                <#--<w:jc w:val="center"/>-->
+                            <#--</w:trPr>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="2410" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="nil"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>性</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t xml:space="preserve"> </w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>别：${s4}</w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="2977" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="nil"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>年</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t xml:space="preserve"> </w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>龄：</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>${s5}</w:t>-->
+                                    <#--</w:r>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t></w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                            <#--<w:tc>-->
+                                <#--<w:tcPr>-->
+                                    <#--<w:tcW w:w="3928" w:type="dxa"/>-->
+                                    <#--<w:tcBorders>-->
+                                        <#--<w:top w:val="nil"/>-->
+                                        <#--<w:left w:val="nil"/>-->
+                                        <#--<w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>-->
+                                        <#--<w:right w:val="nil"/>-->
+                                    <#--</w:tcBorders>-->
+                                    <#--<w:vAlign w:val="center"/>-->
+                                <#--</w:tcPr>-->
+                                <#--<w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">-->
+                                    <#--<w:pPr>-->
+                                        <#--<w:spacing w:line="276" w:lineRule="auto"/>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                    <#--</w:pPr>-->
+                                    <#--<w:r>-->
+                                        <#--<w:rPr>-->
+                                            <#--<w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"-->
+                                                      <#--w:cs="Times New Roman" w:hint="eastAsia"/>-->
+                                            <#--<w:color w:val="404040"/>-->
+                                            <#--<w:kern w:val="0"/>-->
+                                            <#--<w:sz w:val="20"/>-->
+                                            <#--<w:szCs w:val="20"/>-->
+                                        <#--</w:rPr>-->
+                                        <#--<w:t>样本类型：${s6}</w:t>-->
+                                    <#--</w:r>-->
+                                <#--</w:p>-->
+                            <#--</w:tc>-->
+                        <#--</w:tr>-->
+                    <#--</w:tbl>-->
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblStyle w:val="a5"/>
+                            <w:tblW w:w="9315" w:type="dxa"/>
+                            <w:jc w:val="center"/>
+                            <w:tblBorders>
+                                <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                            </w:tblBorders>
+                            <w:tblLayout w:type="fixed"/>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="2561"/>
+                            <w:gridCol w:w="3685"/>
+                            <w:gridCol w:w="3069"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="00101805" w:rsidRPr="00E07412" w:rsidTr="005A0381">
+                            <w:trPr>
+                                <w:trHeight w:val="567"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2561" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="nil"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00101805" w:rsidRPr="00101805" w:rsidRDefault="005A0381"
+                                     w:rsidP="005A0381">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="005A0381">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>姓 名：</w:t>${s2}
+                                    </w:r>
+                                    <w:r w:rsidRPr="00101805">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve"> </w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3685" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="nil"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00101805" w:rsidRPr="00CA39B1" w:rsidRDefault="005A0381"
+                                     w:rsidP="005A0381">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="005A0381">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>检测项目：叶酸代谢能力基因检测</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3069" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="nil"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00101805" w:rsidRPr="005A0381" w:rsidRDefault="0065594A"
+                                     w:rsidP="00CA39B1">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="0065594A">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>样本编号：</w:t>${s1}
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="00210A4A" w:rsidRPr="00E07412" w:rsidTr="005A0381">
+                            <w:trPr>
+                                <w:trHeight w:val="567"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2561" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="nil"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                    <w:hideMark/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00E07412" w:rsidRPr="004548B1" w:rsidRDefault="005A0381"
+                                     w:rsidP="0042011B">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="005A0381">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>性 别：</w:t>${s4}
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3685" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="nil"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                    <w:hideMark/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00E07412" w:rsidRPr="00E07412" w:rsidRDefault="0065594A"
+                                     w:rsidP="00E07412">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="0065594A">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>送检单位：</w:t>${s3}
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3069" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="nil"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                    <w:hideMark/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00E07412" w:rsidRPr="00E07412" w:rsidRDefault="0065594A"
+                                     w:rsidP="00CA39B1">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="0065594A">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>样本类型：</w:t>${s6}
+                                    </w:r>
+                                    <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+                                    <w:bookmarkEnd w:id="0"/>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="00210A4A" w:rsidRPr="00E07412" w:rsidTr="005A0381">
+                            <w:trPr>
+                                <w:trHeight w:val="567"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2561" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                    <w:hideMark/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00E07412" w:rsidRPr="00E07412" w:rsidRDefault="005A0381"
+                                     w:rsidP="00E07412">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="005A0381">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>年 龄：</w:t>${s5}
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3685" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                    <w:hideMark/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00E07412" w:rsidRPr="00E07412" w:rsidRDefault="0065594A"
+                                     w:rsidP="00101805">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="0065594A">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>送检医生：</w:t>${doctor}
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3069" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                    <w:hideMark/>
+                                </w:tcPr>
+                                <w:p w:rsidR="00E07412" w:rsidRPr="00E07412" w:rsidRDefault="005A0381"
+                                     w:rsidP="0042011B">
+                                    <w:pPr>
+                                        <w:spacing w:line="276" w:lineRule="auto"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r w:rsidRPr="005A0381">
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                        </w:rPr>
+                                        <w:t>采集日期：</w:t>${s7}
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:snapToGrid w:val="0"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>检测内容：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>采用一代测序技术，检测叶酸代谢通路的</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>3</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>个位点。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:snapToGrid w:val="0"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>检测结果：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                            </w:rPr>
+                            <w:t>本次检测风险等级为</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>${p1}</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                            </w:rPr>
+                            <w:t>风险。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblStyle w:val="a5"/>
+                            <w:tblW w:w="9324" w:type="dxa"/>
+                            <w:jc w:val="center"/>
+                            <w:tblBorders>
+                                <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:left w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:bottom w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:right w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:insideH w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:insideV w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                            </w:tblBorders>
+                            <w:tblLayout w:type="fixed"/>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="1063"/>
+                            <w:gridCol w:w="3120"/>
+                            <w:gridCol w:w="1196"/>
+                            <w:gridCol w:w="1196"/>
+                            <w:gridCol w:w="1080"/>
+                            <w:gridCol w:w="1669"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="469"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1063" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>基因</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3120" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>基因功能</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>检测位点</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>基因型</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1080" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>风险级别</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1669" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>中国人群占比</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="717"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1063" w:type="dxa"/>
+                                    <w:vMerge w:val="restart"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:i/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:i/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>MTHFR</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3120" w:type="dxa"/>
+                                    <w:vMerge w:val="restart"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>叶酸代谢通路中的关键酶，可介导同型半胱氨酸的清除，促进</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>DNA</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>甲基化反应，并影响</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">DNA </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>合成及修复等</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>C677T</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${p2}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1080" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${f1}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1669" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${r1}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="145"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1063" w:type="dxa"/>
+                                    <w:vMerge/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:i/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3120" w:type="dxa"/>
+                                    <w:vMerge/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>A1298C</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${p3}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1080" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${f2}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1669" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${r2}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="495"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1063" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:i/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:i/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>MTRR</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3120" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:spacing w:afterLines="30" w:after="93" w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>催化具有功能活性的甲硫氨酸合成酶的重新合成，维持叶酸代谢过程，介导叶酸的生物活性</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>A66G</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1196" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${p4}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1080" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${f3}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1669" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${r3}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:adjustRightInd w:val="0"/>
+                            <w:snapToGrid w:val="0"/>
+                            <w:spacing w:line="20" w:lineRule="atLeast"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>注</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>中国</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>人群占比</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>指</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>基因</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>型在</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>中国人群</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>中</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>的</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>突变频率</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>，</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>如</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:i/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>MTHFR</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>基因</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>C677T</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>位点</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>T</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>T</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>基因型的</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>中国人群占比为</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>28</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>%</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>，即</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>100</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>个</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>中国人中有</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>28</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>个</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>人为</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>TT</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>基因型。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:adjustRightInd w:val="0"/>
+                            <w:snapToGrid w:val="0"/>
+                            <w:spacing w:beforeLines="50" w:before="156" w:line="20" w:lineRule="atLeast"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>个体化补充建议</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:line="420" w:lineRule="auto"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑" w:hAnsi="Times New Roman"
+                                          w:cs="Times New Roman" w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>根据您的风险等级建议叶酸补充方案如下：</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblW w:w="9356" w:type="dxa"/>
+                            <w:jc w:val="center"/>
+                            <w:tblLayout w:type="fixed"/>
+                            <w:tblCellMar>
+                                <w:left w:w="0" w:type="dxa"/>
+                                <w:right w:w="0" w:type="dxa"/>
+                            </w:tblCellMar>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="1583"/>
+                            <w:gridCol w:w="2219"/>
+                            <w:gridCol w:w="2293"/>
+                            <w:gridCol w:w="3261"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="454"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1583" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>检测结果</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2219" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕前</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve"> 3 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>个月</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2293" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕早期（</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">≤12 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>周）</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3261" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕中</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>/</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>晚期（</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">13-40 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>周）</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="454"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1583" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${b1}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2219" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">${b2}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2293" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">${b3}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3261" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">${b4}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:line="320" w:lineRule="exact"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>注：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>1</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>）以上补充剂量</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>指合成叶酸补充剂或强化剂的摄入量，</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>不包括食物，具体请遵医嘱。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:line="320" w:lineRule="exact"/>
+                            <w:ind w:firstLineChars="200" w:firstLine="320"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>2</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>）特定群体（详见</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>附录</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>2</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>）</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>，叶酸</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>补充方案</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>建议向临床医生咨询，具体</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>请遵医嘱</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="16"/>
+                            </w:rPr>
+                            <w:t>。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:adjustRightInd w:val="0"/>
+                            <w:snapToGrid w:val="0"/>
+                            <w:spacing w:beforeLines="50" w:before="156"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑" w:hAnsi="Times New Roman"
+                                          w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑" w:hAnsi="Times New Roman"
+                                          w:cs="Times New Roman" w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>上述结果所代表的含义建议咨询送检人员。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblStyle w:val="a5"/>
+                            <w:tblW w:w="0" w:type="auto"/>
+                            <w:tblBorders>
+                                <w:top w:val="none" w:sz="0" w:space="0" w:color="auto"/>
+                                <w:left w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                        w:themeColor="background1"/>
+                                <w:bottom w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                          w:themeColor="background1"/>
+                                <w:right w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                         w:themeColor="background1"/>
+                                <w:insideH w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                           w:themeColor="background1"/>
+                                <w:insideV w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                           w:themeColor="background1"/>
+                            </w:tblBorders>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="9288"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="9288" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>检测者：</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">                     </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>审核者：</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">                        </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>报告日期：</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>${p5}</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="9288" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:ind w:rightChars="201" w:right="422"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t>备注：</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:ind w:rightChars="201" w:right="422"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">1. </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t>以上结论均为实验室检测数据，仅用于突变检测之目的，供临床参考，不代表最终诊断结果。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:ind w:rightChars="201" w:right="422"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">2. </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t>叶酸代谢能力基因检测结果反映的是遗传方面的风险，疾病是否发生跟风险无必然联系。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">3. </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t>本报告结果只对送检样品负责，如有疑义，请在收到结果后的</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t>7</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="微软雅黑"
+                                                      w:hAnsi="Times New Roman" w:cs="Times New Roman"
+                                                      w:hint="eastAsia"/>
+                                            <w:color w:val="595959"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="16"/>
+                                            <w:szCs w:val="15"/>
+                                        </w:rPr>
+                                        <w:t>个工作日内与我们联系。</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+                    <w:bookmarkEnd w:id="0"/>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:widowControl/>
+                            <w:jc w:val="left"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:sectPr w:rsidR="008A3D7E">
+                                <w:headerReference w:type="default" r:id="rId9"/>
+                                <w:footerReference w:type="default" r:id="rId10"/>
+                                <w:pgSz w:w="11906" w:h="16838"/>
+                                <w:pgMar w:top="1304" w:right="1304" w:bottom="1134" w:left="1304" w:header="851"
+                                         w:footer="624" w:gutter="0"/>
+                                <w:cols w:space="720"/>
+                                <w:docGrid w:type="lines" w:linePitch="312"/>
+                            </w:sectPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:noProof/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <mc:AlternateContent>
+                                <mc:Choice Requires="wps">
+                                    <w:drawing>
+                                        <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300"
+                                                   simplePos="0" relativeHeight="251688960" behindDoc="1" locked="0"
+                                                   layoutInCell="1" allowOverlap="1">
+                                            <wp:simplePos x="0" y="0"/>
+                                            <wp:positionH relativeFrom="column">
+                                                <wp:posOffset>3446780</wp:posOffset>
+                                            </wp:positionH>
+                                            <wp:positionV relativeFrom="paragraph">
+                                                <wp:posOffset>1086485</wp:posOffset>
+                                            </wp:positionV>
+                                            <wp:extent cx="1569085" cy="233045"/>
+                                            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                            <wp:wrapNone/>
+                                            <wp:docPr id="8" name="文本框 2"/>
+                                            <wp:cNvGraphicFramePr>
+                                                <a:graphicFrameLocks
+                                                        xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                            </wp:cNvGraphicFramePr>
+                                            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                                <a:graphicData
+                                                        uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                                    <wps:wsp>
+                                                        <wps:cNvSpPr txBox="1">
+                                                            <a:spLocks noChangeArrowheads="1"/>
+                                                        </wps:cNvSpPr>
+                                                        <wps:spPr bwMode="auto">
+                                                            <a:xfrm>
+                                                                <a:off x="0" y="0"/>
+                                                                <a:ext cx="1569085" cy="233045"/>
+                                                            </a:xfrm>
+                                                            <a:prstGeom prst="rect">
+                                                                <a:avLst/>
+                                                            </a:prstGeom>
+                                                            <a:noFill/>
+                                                            <a:ln>
+                                                                <a:noFill/>
+                                                            </a:ln>
+                                                        </wps:spPr>
+                                                        <wps:txbx>
+                                                            <w:txbxContent>
+                                                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                                                    <w:pPr>
+                                                                        <w:snapToGrid w:val="0"/>
+                                                                        <w:jc w:val="center"/>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="13"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="13"/>
+                                                                        </w:rPr>
+                                                                        <w:t>优迅医学</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="13"/>
+                                                                        </w:rPr>
+                                                                        <w:t>微信公众号</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                            </w:txbxContent>
+                                                        </wps:txbx>
+                                                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440"
+                                                                    tIns="45720" rIns="91440" bIns="45720" anchor="t"
+                                                                    anchorCtr="0" upright="1">
+                                                            <a:spAutoFit/>
+                                                        </wps:bodyPr>
+                                                    </wps:wsp>
+                                                </a:graphicData>
+                                            </a:graphic>
+                                            <wp14:sizeRelH relativeFrom="page">
+                                                <wp14:pctWidth>0</wp14:pctWidth>
+                                            </wp14:sizeRelH>
+                                            <wp14:sizeRelV relativeFrom="margin">
+                                                <wp14:pctHeight>20000</wp14:pctHeight>
+                                            </wp14:sizeRelV>
+                                        </wp:anchor>
+                                    </w:drawing>
+                                </mc:Choice>
+                                <mc:Fallback xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+                                    <w:pict>
+                                        <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202"
+                                                 style="position:absolute;left:0pt;margin-left:271.4pt;margin-top:85.55pt;height:18.35pt;width:123.55pt;z-index:-251627520;mso-width-relative:page;mso-height-relative:margin;mso-height-percent:200;"
+                                                 filled="f" stroked="f" coordsize="21600,21600"
+                                                 o:gfxdata="UEsDBAoAAAAAAIdO4kAAAAAAAAAAAAAAAAAEAAAAZHJzL1BLAwQUAAAACACHTuJA0cl949gAAAAL&#xA;AQAADwAAAGRycy9kb3ducmV2LnhtbE2PwU7DMBBE70j8g7VI3KidCEiaxqkQassRKBFnN3aTiHht&#xA;2W5a/p7lBMfRjGbe1OuLndhsQhwdSsgWApjBzukRewntx/auBBaTQq0mh0bCt4mwbq6valVpd8Z3&#xA;M+9Tz6gEY6UkDCn5ivPYDcaquHDeIHlHF6xKJEPPdVBnKrcTz4V45FaNSAuD8uZ5MN3X/mQl+OR3&#xA;xUt4fXvabGfRfu7afOw3Ut7eZGIFLJlL+gvDLz6hQ0NMB3dCHdkk4eE+J/RERpFlwChRlMslsIOE&#xA;XBQl8Kbm/z80P1BLAwQUAAAACACHTuJABpTi/fsBAADHAwAADgAAAGRycy9lMm9Eb2MueG1srVPB&#xA;jtMwEL0j8Q+W7zRpt112o6arZVdFSAuLtPABjuM0FonHjN0m5QPYP+DEhft+V7+DsdOWAjfExbI9&#xA;4zdv3jzPr/q2YRuFToPJ+XiUcqaMhFKbVc4/fli+uODMeWFK0YBROd8qx68Wz5/NO5upCdTQlAoZ&#xA;gRiXdTbntfc2SxIna9UKNwKrDAUrwFZ4OuIqKVF0hN42ySRNz5MOsLQIUjlHt7dDkC8iflUp6e+r&#xA;yinPmpwTNx9XjGsR1mQxF9kKha213NMQ/8CiFdpQ0SPUrfCCrVH/BdVqieCg8iMJbQJVpaWKPVA3&#xA;4/SPbh5qYVXshcRx9iiT+3+w8t3mPTJd5pwGZURLI9p9e9x9f9r9+MomQZ7OuoyyHizl+f4V9DTm&#xA;2KqzdyA/OWbgphZmpa4RoauVKIneOLxMTp4OOC6AFN1bKKmOWHuIQH2FbdCO1GCETmPaHkejes9k&#xA;KDk7v0wvZpxJik3OztLpLJYQ2eG1RedfK2hZ2OQcafQRXWzunA9sRHZICcUMLHXTxPE35rcLSgw3&#xA;kX0gPFD3fdHv1Sig3FIfCIObyP20qQG/cNaRk3LuPq8FKs6aN4a0uBxPp8F68TCdvZzQAU8jxWlE&#xA;GElQOfecDdsbP9h1bVGvaqp0UP+a9Fvq2FoQemC1501uiR3vnR3seHqOWb/+3+InUEsDBAoAAAAA&#xA;AIdO4kAAAAAAAAAAAAAAAAAGAAAAX3JlbHMvUEsDBBQAAAAIAIdO4kCKFGY80QAAAJQBAAALAAAA&#xA;X3JlbHMvLnJlbHOlkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr28w6DZfS2o36h&#xA;7xP//vCZFrUiS6RsYNf1oDA78jEHA++X49MLKKk2e7tQRgM3FDiMjw/7My62tiOZYxHVKFkMzLWW&#xA;V63FzZisdFQwt81EnGxtIwddrLvagHro+2fNvxkwbpjq5A3wyQ+gLrfSzH/YKTomoal2jpKmaYru&#xA;HlUHtmWO7sg24Ru5RrMcsBrwLBoHalnXfgR9X7/7p97TRz7jutV+h4zrj1dvuhy/AFBLAwQUAAAA&#xA;CACHTuJAfublIPcAAADhAQAAEwAAAFtDb250ZW50X1R5cGVzXS54bWyVkUFOwzAQRfdI3MHyFiVO&#xA;u0AIJemCtEtAqBxgZE8Si2RseUxob4+TthtEkVjaM/+/J7vcHMZBTBjYOqrkKi+kQNLOWOoq+b7f&#xA;ZQ9ScAQyMDjCSh6R5aa+vSn3R48sUpq4kn2M/lEp1j2OwLnzSGnSujBCTMfQKQ/6AzpU66K4V9pR&#xA;RIpZnDtkXTbYwucQxfaQrk8mAQeW4um0OLMqCd4PVkNMpmoi84OSnQl5Si473FvPd0lDql8J8+Q6&#xA;4Jx7SU8TrEHxCiE+w5g0lAmsjPuigFP+d8lsOXLm2tZqzJvATYq94XSxutaOa9c4/d/y7ZK6dKvl&#xA;g+pvUEsBAhQAFAAAAAgAh07iQH7m5SD3AAAA4QEAABMAAAAAAAAAAQAgAAAAbAQAAFtDb250ZW50&#xA;X1R5cGVzXS54bWxQSwECFAAKAAAAAACHTuJAAAAAAAAAAAAAAAAABgAAAAAAAAAAABAAAABOAwAA&#xA;X3JlbHMvUEsBAhQAFAAAAAgAh07iQIoUZjzRAAAAlAEAAAsAAAAAAAAAAQAgAAAAcgMAAF9yZWxz&#xA;Ly5yZWxzUEsBAhQACgAAAAAAh07iQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAGRycy9Q&#xA;SwECFAAUAAAACACHTuJA0cl949gAAAALAQAADwAAAAAAAAABACAAAAAiAAAAZHJzL2Rvd25yZXYu&#xA;eG1sUEsBAhQAFAAAAAgAh07iQAaU4v37AQAAxwMAAA4AAAAAAAAAAQAgAAAAJwEAAGRycy9lMm9E&#xA;b2MueG1sUEsFBgAAAAAGAAYAWQEAAJQFAAAAAA==&#xA;">
+                                            <v:fill on="f" focussize="0,0"/>
+                                            <v:stroke on="f"/>
+                                            <v:imagedata o:title=""/>
+                                            <o:lock v:ext="edit" aspectratio="f"/>
+                                            <v:textbox style="mso-fit-shape-to-text:t;">
+                                                <w:txbxContent>
+                                                    <w:p>
+                                                        <w:pPr>
+                                                            <w:snapToGrid w:val="0"/>
+                                                            <w:jc w:val="center"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="13"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:hint="eastAsia" w:ascii="微软雅黑"
+                                                                          w:hAnsi="微软雅黑" w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="13"/>
+                                                            </w:rPr>
+                                                            <w:t>优迅医学</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="13"/>
+                                                            </w:rPr>
+                                                            <w:t>微信公众号</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </v:textbox>
+                                        </v:shape>
+                                    </w:pict>
+                                </mc:Fallback>
+                            </mc:AlternateContent>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:noProof/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <mc:AlternateContent>
+                                <mc:Choice Requires="wps">
+                                    <w:drawing>
+                                        <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300"
+                                                   simplePos="0" relativeHeight="251625472" behindDoc="1" locked="0"
+                                                   layoutInCell="1" allowOverlap="1">
+                                            <wp:simplePos x="0" y="0"/>
+                                            <wp:positionH relativeFrom="column">
+                                                <wp:posOffset>38735</wp:posOffset>
+                                            </wp:positionH>
+                                            <wp:positionV relativeFrom="paragraph">
+                                                <wp:posOffset>200660</wp:posOffset>
+                                            </wp:positionV>
+                                            <wp:extent cx="5901690" cy="1160145"/>
+                                            <wp:effectExtent l="0" t="0" r="22860" b="20955"/>
+                                            <wp:wrapNone/>
+                                            <wp:docPr id="11" name="文本框 2"/>
+                                            <wp:cNvGraphicFramePr>
+                                                <a:graphicFrameLocks
+                                                        xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                            </wp:cNvGraphicFramePr>
+                                            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                                <a:graphicData
+                                                        uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                                    <wps:wsp>
+                                                        <wps:cNvSpPr txBox="1">
+                                                            <a:spLocks noChangeArrowheads="1"/>
+                                                        </wps:cNvSpPr>
+                                                        <wps:spPr bwMode="auto">
+                                                            <a:xfrm>
+                                                                <a:off x="0" y="0"/>
+                                                                <a:ext cx="5901690" cy="1160145"/>
+                                                            </a:xfrm>
+                                                            <a:prstGeom prst="rect">
+                                                                <a:avLst/>
+                                                            </a:prstGeom>
+                                                            <a:noFill/>
+                                                            <a:ln w="9525">
+                                                                <a:solidFill>
+                                                                    <a:srgbClr val="C8C8C8"/>
+                                                                </a:solidFill>
+                                                                <a:miter lim="800000"/>
+                                                            </a:ln>
+                                                        </wps:spPr>
+                                                        <wps:txbx>
+                                                            <w:txbxContent>
+                                                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                                                    <w:pPr>
+                                                                        <w:snapToGrid w:val="0"/>
+                                                                        <w:spacing w:beforeLines="100" w:before="312"/>
+                                                                        <w:ind w:leftChars="135" w:left="283"
+                                                                               w:rightChars="1921" w:right="4034"/>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                                                                            <w:color w:val="595959"/>
+                                                                        </w:rPr>
+                                                                        <w:t>报告防伪</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                        </w:rPr>
+                                                                        <w:t>查询：</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                                                    <w:pPr>
+                                                                        <w:snapToGrid w:val="0"/>
+                                                                        <w:ind w:left="360" w:rightChars="1708"
+                                                                               w:right="3587"/>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                        <w:t>①</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                        <w:t>关注优迅医学微信公众号</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                        <w:t>。②使用优迅医学公众号报告防伪功能，扫描报告</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                        <w:t>防伪</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                        <w:t>二维码进行</w:t>
+                                                                    </w:r>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="20"/>
+                                                                        </w:rPr>
+                                                                        <w:t>查询。</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                            </w:txbxContent>
+                                                        </wps:txbx>
+                                                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440"
+                                                                    tIns="45720" rIns="91440" bIns="45720" anchor="t"
+                                                                    anchorCtr="0" upright="1">
+                                                            <a:noAutofit/>
+                                                        </wps:bodyPr>
+                                                    </wps:wsp>
+                                                </a:graphicData>
+                                            </a:graphic>
+                                        </wp:anchor>
+                                    </w:drawing>
+                                </mc:Choice>
+                                <mc:Fallback xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+                                    <w:pict>
+                                        <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202"
+                                                 style="position:absolute;left:0pt;margin-left:3.05pt;margin-top:15.8pt;height:91.35pt;width:464.7pt;z-index:-251691008;mso-width-relative:page;mso-height-relative:page;"
+                                                 filled="f" stroked="t" coordsize="21600,21600"
+                                                 o:gfxdata="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&#xA;BgBZAQAAvQUAAAAA&#xA;">
+                                            <v:fill on="f" focussize="0,0"/>
+                                            <v:stroke color="#C8C8C8" miterlimit="8" joinstyle="miter"/>
+                                            <v:imagedata o:title=""/>
+                                            <o:lock v:ext="edit" aspectratio="f"/>
+                                            <v:textbox>
+                                                <w:txbxContent>
+                                                    <w:p>
+                                                        <w:pPr>
+                                                            <w:snapToGrid w:val="0"/>
+                                                            <w:spacing w:before="312" w:beforeLines="100"/>
+                                                            <w:ind w:left="283" w:leftChars="135" w:right="4034"
+                                                                   w:rightChars="1921"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:hint="eastAsia" w:ascii="微软雅黑"
+                                                                          w:hAnsi="微软雅黑" w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                            </w:rPr>
+                                                            <w:t>报告防伪</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                            </w:rPr>
+                                                            <w:t>查询：</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                    <w:p>
+                                                        <w:pPr>
+                                                            <w:snapToGrid w:val="0"/>
+                                                            <w:ind w:left="360" w:right="3587" w:rightChars="1708"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:hint="eastAsia" w:ascii="微软雅黑"
+                                                                          w:hAnsi="微软雅黑" w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                            <w:t>①</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                            <w:t>关注优迅医学微信公众号</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:hint="eastAsia" w:ascii="微软雅黑"
+                                                                          w:hAnsi="微软雅黑" w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                            <w:t>。②使用优迅医学公众号报告防伪功能，扫描报告</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                            <w:t>防伪</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:hint="eastAsia" w:ascii="微软雅黑"
+                                                                          w:hAnsi="微软雅黑" w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                            <w:t>二维码进行</w:t>
+                                                        </w:r>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="20"/>
+                                                            </w:rPr>
+                                                            <w:t>查询。</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </v:textbox>
+                                        </v:shape>
+                                    </w:pict>
+                                </mc:Fallback>
+                            </mc:AlternateContent>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:noProof/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:drawing>
+                                <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0"
+                                           relativeHeight="251667456" behindDoc="1" locked="0" layoutInCell="1"
+                                           allowOverlap="1">
+                                    <wp:simplePos x="0" y="0"/>
+                                    <wp:positionH relativeFrom="column">
+                                        <wp:posOffset>3795395</wp:posOffset>
+                                    </wp:positionH>
+                                    <wp:positionV relativeFrom="paragraph">
+                                        <wp:posOffset>209550</wp:posOffset>
+                                    </wp:positionV>
+                                    <wp:extent cx="900430" cy="900430"/>
+                                    <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                    <wp:wrapNone/>
+                                    <wp:docPr id="7" name="图片 7" descr="3a113bd9ad525f2ca6c3698402b53af"/>
+                                    <wp:cNvGraphicFramePr>
+                                        <a:graphicFrameLocks noChangeAspect="1"
+                                                             xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                    </wp:cNvGraphicFramePr>
+                                    <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                            <pic:pic
+                                                    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                                <pic:nvPicPr>
+                                                    <pic:cNvPr id="7" name="图片 7"
+                                                               descr="3a113bd9ad525f2ca6c3698402b53af"/>
+                                                    <pic:cNvPicPr>
+                                                        <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                                    </pic:cNvPicPr>
+                                                </pic:nvPicPr>
+                                                <pic:blipFill>
+                                                    <a:blip r:embed="rId11" cstate="print">
+                                                        <a:extLst>
+                                                            <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                                <a14:useLocalDpi val="0"
+                                                                                 xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                                            </a:ext>
+                                                        </a:extLst>
+                                                    </a:blip>
+                                                    <a:srcRect/>
+                                                    <a:stretch>
+                                                        <a:fillRect/>
+                                                    </a:stretch>
+                                                </pic:blipFill>
+                                                <pic:spPr>
+                                                    <a:xfrm>
+                                                        <a:off x="0" y="0"/>
+                                                        <a:ext cx="900430" cy="900430"/>
+                                                    </a:xfrm>
+                                                    <a:prstGeom prst="rect">
+                                                        <a:avLst/>
+                                                    </a:prstGeom>
+                                                    <a:noFill/>
+                                                    <a:ln>
+                                                        <a:noFill/>
+                                                    </a:ln>
+                                                </pic:spPr>
+                                            </pic:pic>
+                                        </a:graphicData>
+                                    </a:graphic>
+                                </wp:anchor>
+                            </w:drawing>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:noProof/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:drawing>
+                                <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0"
+                                           relativeHeight="251646976" behindDoc="1" locked="0" layoutInCell="1"
+                                           allowOverlap="1">
+                                    <wp:simplePos x="0" y="0"/>
+                                    <wp:positionH relativeFrom="column">
+                                        <wp:posOffset>4709160</wp:posOffset>
+                                    </wp:positionH>
+                                    <wp:positionV relativeFrom="paragraph">
+                                        <wp:posOffset>209550</wp:posOffset>
+                                    </wp:positionV>
+                                    <wp:extent cx="900430" cy="900430"/>
+                                    <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                    <wp:wrapNone/>
+                                    <wp:docPr id="10" name="图片 6" descr="3a113bd9ad525f2ca6c3698402b53af"/>
+                                    <wp:cNvGraphicFramePr>
+                                        <a:graphicFrameLocks noChangeAspect="1"
+                                                             xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                    </wp:cNvGraphicFramePr>
+                                    <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                            <pic:pic
+                                                    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                                <pic:nvPicPr>
+                                                    <pic:cNvPr id="10" name="图片 6"
+                                                               descr="3a113bd9ad525f2ca6c3698402b53af"/>
+                                                    <pic:cNvPicPr>
+                                                        <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                                    </pic:cNvPicPr>
+                                                </pic:nvPicPr>
+                                                <pic:blipFill>
+                                                    <a:blip r:embed="rId12" cstate="print">
+                                                        <a:extLst>
+                                                            <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                                <a14:useLocalDpi val="0"
+                                                                                 xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                                            </a:ext>
+                                                        </a:extLst>
+                                                    </a:blip>
+                                                    <a:srcRect/>
+                                                    <a:stretch>
+                                                        <a:fillRect/>
+                                                    </a:stretch>
+                                                </pic:blipFill>
+                                                <pic:spPr>
+                                                    <a:xfrm>
+                                                        <a:off x="0" y="0"/>
+                                                        <a:ext cx="900430" cy="900430"/>
+                                                    </a:xfrm>
+                                                    <a:prstGeom prst="rect">
+                                                        <a:avLst/>
+                                                    </a:prstGeom>
+                                                    <a:noFill/>
+                                                    <a:ln>
+                                                        <a:noFill/>
+                                                    </a:ln>
+                                                </pic:spPr>
+                                            </pic:pic>
+                                        </a:graphicData>
+                                    </a:graphic>
+                                </wp:anchor>
+                            </w:drawing>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:noProof/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <mc:AlternateContent>
+                                <mc:Choice Requires="wps">
+                                    <w:drawing>
+                                        <wp:anchor distT="45720" distB="45720" distL="114300" distR="114300"
+                                                   simplePos="0" relativeHeight="251710464" behindDoc="1" locked="0"
+                                                   layoutInCell="1" allowOverlap="1">
+                                            <wp:simplePos x="0" y="0"/>
+                                            <wp:positionH relativeFrom="column">
+                                                <wp:posOffset>4456430</wp:posOffset>
+                                            </wp:positionH>
+                                            <wp:positionV relativeFrom="paragraph">
+                                                <wp:posOffset>1071245</wp:posOffset>
+                                            </wp:positionV>
+                                            <wp:extent cx="1379220" cy="233045"/>
+                                            <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                            <wp:wrapNone/>
+                                            <wp:docPr id="9" name="文本框 2"/>
+                                            <wp:cNvGraphicFramePr>
+                                                <a:graphicFrameLocks
+                                                        xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                            </wp:cNvGraphicFramePr>
+                                            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                                <a:graphicData
+                                                        uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                                                    <wps:wsp>
+                                                        <wps:cNvSpPr txBox="1">
+                                                            <a:spLocks noChangeArrowheads="1"/>
+                                                        </wps:cNvSpPr>
+                                                        <wps:spPr bwMode="auto">
+                                                            <a:xfrm>
+                                                                <a:off x="0" y="0"/>
+                                                                <a:ext cx="1379220" cy="233045"/>
+                                                            </a:xfrm>
+                                                            <a:prstGeom prst="rect">
+                                                                <a:avLst/>
+                                                            </a:prstGeom>
+                                                            <a:noFill/>
+                                                            <a:ln>
+                                                                <a:noFill/>
+                                                            </a:ln>
+                                                        </wps:spPr>
+                                                        <wps:txbx>
+                                                            <w:txbxContent>
+                                                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                                                    <w:pPr>
+                                                                        <w:snapToGrid w:val="0"/>
+                                                                        <w:jc w:val="center"/>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="13"/>
+                                                                        </w:rPr>
+                                                                    </w:pPr>
+                                                                    <w:r>
+                                                                        <w:rPr>
+                                                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑"
+                                                                                      w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+                                                                            <w:color w:val="595959"/>
+                                                                            <w:sz w:val="13"/>
+                                                                        </w:rPr>
+                                                                        <w:t>报告防伪二维码</w:t>
+                                                                    </w:r>
+                                                                </w:p>
+                                                            </w:txbxContent>
+                                                        </wps:txbx>
+                                                        <wps:bodyPr rot="0" vert="horz" wrap="square" lIns="91440"
+                                                                    tIns="45720" rIns="91440" bIns="45720" anchor="t"
+                                                                    anchorCtr="0" upright="1">
+                                                            <a:spAutoFit/>
+                                                        </wps:bodyPr>
+                                                    </wps:wsp>
+                                                </a:graphicData>
+                                            </a:graphic>
+                                            <wp14:sizeRelH relativeFrom="page">
+                                                <wp14:pctWidth>0</wp14:pctWidth>
+                                            </wp14:sizeRelH>
+                                            <wp14:sizeRelV relativeFrom="margin">
+                                                <wp14:pctHeight>20000</wp14:pctHeight>
+                                            </wp14:sizeRelV>
+                                        </wp:anchor>
+                                    </w:drawing>
+                                </mc:Choice>
+                                <mc:Fallback xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+                                    <w:pict>
+                                        <v:shape id="文本框 2" o:spid="_x0000_s1026" o:spt="202" type="#_x0000_t202"
+                                                 style="position:absolute;left:0pt;margin-left:350.9pt;margin-top:84.35pt;height:18.35pt;width:108.6pt;z-index:-251606016;mso-width-relative:page;mso-height-relative:margin;mso-height-percent:200;"
+                                                 filled="f" stroked="f" coordsize="21600,21600"
+                                                 o:gfxdata="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&#xA;Yy54bWxQSwUGAAAAAAYABgBZAQAAkwUAAAAA&#xA;">
+                                            <v:fill on="f" focussize="0,0"/>
+                                            <v:stroke on="f"/>
+                                            <v:imagedata o:title=""/>
+                                            <o:lock v:ext="edit" aspectratio="f"/>
+                                            <v:textbox style="mso-fit-shape-to-text:t;">
+                                                <w:txbxContent>
+                                                    <w:p>
+                                                        <w:pPr>
+                                                            <w:snapToGrid w:val="0"/>
+                                                            <w:jc w:val="center"/>
+                                                            <w:rPr>
+                                                                <w:rFonts w:ascii="微软雅黑" w:hAnsi="微软雅黑"
+                                                                          w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="13"/>
+                                                            </w:rPr>
+                                                        </w:pPr>
+                                                        <w:r>
+                                                            <w:rPr>
+                                                                <w:rFonts w:hint="eastAsia" w:ascii="微软雅黑"
+                                                                          w:hAnsi="微软雅黑" w:eastAsia="微软雅黑"/>
+                                                                <w:color w:val="595959"/>
+                                                                <w:sz w:val="13"/>
+                                                            </w:rPr>
+                                                            <w:t>报告防伪二维码</w:t>
+                                                        </w:r>
+                                                    </w:p>
+                                                </w:txbxContent>
+                                            </v:textbox>
+                                        </v:shape>
+                                    </w:pict>
+                                </mc:Fallback>
+                            </mc:AlternateContent>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:afterLines="30" w:after="93"/>
+                            <w:jc w:val="left"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:lastRenderedPageBreak/>
+                            <w:t>附录</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>1</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>-</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>叶酸常规补充建议</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblW w:w="9360" w:type="dxa"/>
+                            <w:jc w:val="center"/>
+                            <w:tblLayout w:type="fixed"/>
+                            <w:tblCellMar>
+                                <w:left w:w="0" w:type="dxa"/>
+                                <w:right w:w="0" w:type="dxa"/>
+                            </w:tblCellMar>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="1584"/>
+                            <w:gridCol w:w="2220"/>
+                            <w:gridCol w:w="2294"/>
+                            <w:gridCol w:w="3262"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="454"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1583" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>补充类型</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2219" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕前</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve"> 3 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>个月</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2293" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕早期（</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>≤</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">12 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>周）</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3261" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕中</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>/</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>晚期（</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">13-40 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>周）</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="454"/>
+                                <w:jc w:val="center"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1583" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>叶酸</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2219" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">400 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>微克</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>/</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>天</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2293" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t xml:space="preserve">400 </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>微克</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>/</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>天</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3261" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:left w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="A6A6A6"/>
+                                        <w:right w:val="nil"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:spacing w:line="240" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>膳食补充，可无需补充剂</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:beforeLines="100" w:before="312"/>
+                            <w:jc w:val="left"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>附录</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>2-</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>叶酸增补最新指南（</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>2017</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>）核心推荐</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:afterLines="50" w:after="156" w:line="360" w:lineRule="exact"/>
+                            <w:jc w:val="left"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>对每名备孕或孕早期妇女，应采集夫妻双方的疾病史、生育史、家族史、饮食情况、药物服用情况、行为习惯等信息，并进行必要的体格检查和实验室检查。特定</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>群体</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:color w:val="404040"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>叶酸增补建议，如下：</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblW w:w="5000" w:type="pct"/>
+                            <w:tblBorders>
+                                <w:top w:val="single" w:sz="12" w:space="0" w:color="BFBFBF" w:themeColor="background1"
+                                       w:themeShade="BF"/>
+                                <w:bottom w:val="single" w:sz="12" w:space="0" w:color="BFBFBF"
+                                          w:themeColor="background1" w:themeShade="BF"/>
+                                <w:insideH w:val="single" w:sz="12" w:space="0" w:color="BFBFBF"
+                                           w:themeColor="background1" w:themeShade="BF"/>
+                            </w:tblBorders>
+                            <w:tblLayout w:type="fixed"/>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="3262"/>
+                            <w:gridCol w:w="1700"/>
+                            <w:gridCol w:w="1134"/>
+                            <w:gridCol w:w="141"/>
+                            <w:gridCol w:w="993"/>
+                            <w:gridCol w:w="2068"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="624"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1754" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="260" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>群体</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="914" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="260" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="宋体"
+                                                      w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>补充时间</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="686" w:type="pct"/>
+                                    <w:gridSpan w:val="2"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="260" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>日补充剂量（毫克</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>）</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="534" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="260" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>证据强度分级</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1112" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="nil"/>
+                                        <w:bottom w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="260" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>证据强度说明</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="1344"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1754" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:widowControl/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="1"/>
+                                        </w:numPr>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:ind w:left="238" w:hangingChars="119" w:hanging="238"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>有神经管缺陷生育史的妇女</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E"/>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="914" w:type="pct"/>
+                                    <w:vMerge w:val="restart"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>可能怀孕或孕前至少</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>1</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>个月开始，至妊娠满</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>3</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>个月</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="610" w:type="pct"/>
+                                    <w:vMerge w:val="restart"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>4-5</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="610" w:type="pct"/>
+                                    <w:gridSpan w:val="2"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>IA</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1112" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="12" w:space="0" w:color="FFFFFF"
+                                               w:themeColor="background1"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>证据来自至少</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>1</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>个高质量的随机对照试验，有充足证据推荐临床应用</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="844"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1754" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:widowControl/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="1"/>
+                                        </w:numPr>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:ind w:left="238" w:hangingChars="119" w:hanging="238"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>夫妻一方患神经管缺陷或男方既往有神经管缺陷生育史的妇女</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="914" w:type="pct"/>
+                                    <w:vMerge/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="610" w:type="pct"/>
+                                    <w:vMerge/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="610" w:type="pct"/>
+                                    <w:gridSpan w:val="2"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>II-2A</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1112" w:type="pct"/>
+                                    <w:vMerge w:val="restart"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>证据来自设计良好的队列研究</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>(</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>前瞻性或回顾性</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>)</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>或者病例对照研究，最好来自</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>1</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>个以上的中心或研究团队，有充足证据推荐临床应用</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="3062"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1754" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:widowControl/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="1"/>
+                                        </w:numPr>
+                                        <w:spacing w:afterLines="30" w:after="93" w:line="300" w:lineRule="exact"/>
+                                        <w:ind w:left="238" w:hangingChars="119" w:hanging="238"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>患先天性脑积水、先天性心脏病、唇腭裂、肢体缺陷、泌尿系统缺陷，或有上述缺陷家族史，或一、二级直系亲属中有神经管缺陷生育史的妇女</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:widowControl/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="1"/>
+                                        </w:numPr>
+                                        <w:spacing w:afterLines="30" w:after="93" w:line="300" w:lineRule="exact"/>
+                                        <w:ind w:left="238" w:hangingChars="119" w:hanging="238"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>患糖尿病、肥胖或癫痫的妇女</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:widowControl/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="1"/>
+                                        </w:numPr>
+                                        <w:spacing w:afterLines="30" w:after="93" w:line="300" w:lineRule="exact"/>
+                                        <w:ind w:left="238" w:hangingChars="119" w:hanging="238"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>正在服用增加胎儿神经管缺陷风险药物的妇女</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:widowControl/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="1"/>
+                                        </w:numPr>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:ind w:left="238" w:hangingChars="119" w:hanging="238"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>患胃肠道吸收不良性疾病的妇女</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="914" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>可能怀孕或孕前至少</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>3</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>个月开始，至妊娠满</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>3</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>个月</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="610" w:type="pct"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>0.8-1.0</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="610" w:type="pct"/>
+                                    <w:gridSpan w:val="2"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="center"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                        <w:t>II-2A</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="1112" w:type="pct"/>
+                                    <w:vMerge/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="300" w:lineRule="exact"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="300"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="5000" w:type="pct"/>
+                                    <w:gridSpan w:val="6"/>
+                                    <w:tcBorders>
+                                        <w:top w:val="single" w:sz="4" w:space="0" w:color="BFBFBF"
+                                               w:themeColor="background1" w:themeShade="BF"/>
+                                        <w:bottom w:val="single" w:sz="4" w:space="0" w:color="FFFFFF"
+                                                  w:themeColor="background1"/>
+                                    </w:tcBorders>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+                                    <w:noWrap/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:beforeLines="30" w:before="93" w:line="20" w:lineRule="atLeast"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="18"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="16"/>
+                                        </w:rPr>
+                                        <w:t>注</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="16"/>
+                                        </w:rPr>
+                                        <w:t>：</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="16"/>
+                                        </w:rPr>
+                                        <w:t>增加胎儿神经管缺陷风险药物，</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="16"/>
+                                        </w:rPr>
+                                        <w:t>如</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="16"/>
+                                        </w:rPr>
+                                        <w:t>卡马西平、丙戊酸、苯妥英钠、扑米酮、苯巴比妥、二甲双胍、甲氨蝶呤、柳氮磺胺吡啶、甲氧苄啶、氨苯蝶啶、考来烯胺等。</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                        <w:pPr>
+                            <w:spacing w:beforeLines="80" w:before="249" w:afterLines="30" w:after="93"/>
+                            <w:jc w:val="left"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>附录</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>3-</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                          w:hint="eastAsia"/>
+                                <w:b/>
+                                <w:color w:val="225AA7"/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>孕期叶酸补充的相关知识</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblW w:w="9351" w:type="dxa"/>
+                            <w:tblCellMar>
+                                <w:left w:w="0" w:type="dxa"/>
+                                <w:right w:w="0" w:type="dxa"/>
+                            </w:tblCellMar>
+                            <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0"
+                                       w:noHBand="0" w:noVBand="1"/>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="3114"/>
+                            <w:gridCol w:w="283"/>
+                            <w:gridCol w:w="2699"/>
+                            <w:gridCol w:w="3255"/>
+                        </w:tblGrid>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="454"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3114" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>女性补充不足</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="283" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2699" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>男性补充不足</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3255" w:type="dxa"/>
+                                    <w:shd w:val="clear" w:color="auto" w:fill="225AA7"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:ind w:firstLineChars="100" w:firstLine="200"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                            <w:sz w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>女性补充过量</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr w:rsidR="008A3D7E">
+                            <w:trPr>
+                                <w:trHeight w:val="2299"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3114" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="8" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>对胎儿：</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>增加胎儿神经管缺陷、唇裂、先天性心脏病等的发病风险。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>对孕妈：</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>增加孕妈高同型半胱氨酸血症、妊娠期高血压、乳腺癌、卵巢癌、巨幼红细胞性贫血等</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>的</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>发病风险。</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="283" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="8" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="2699" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="8" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>对胎儿：</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>增加胎儿唐氏综合征风险。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>对孕妈：</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>增加女性不孕、孕妈流产风险。</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:w="3255" w:type="dxa"/>
+                                    <w:tcBorders>
+                                        <w:bottom w:val="single" w:sz="8" w:space="0" w:color="BFBFBF"
+                                                  w:themeColor="background1" w:themeShade="BF"/>
+                                    </w:tcBorders>
+                                </w:tcPr>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="2"/>
+                                        </w:numPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:ind w:firstLineChars="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>增加肝肾负荷。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="2"/>
+                                        </w:numPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:ind w:firstLineChars="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>增加乳腺癌、老年痴呆的发病风险。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="2"/>
+                                        </w:numPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:ind w:firstLineChars="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>孕妈锌代谢受干扰，增加胎儿发育迟缓、体重偏低的发病风险。</w:t>
+                                    </w:r>
+                                </w:p>
+                                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                                    <w:pPr>
+                                        <w:pStyle w:val="a7"/>
+                                        <w:numPr>
+                                            <w:ilvl w:val="0"/>
+                                            <w:numId w:val="2"/>
+                                        </w:numPr>
+                                        <w:adjustRightInd w:val="0"/>
+                                        <w:snapToGrid w:val="0"/>
+                                        <w:spacing w:line="320" w:lineRule="exact"/>
+                                        <w:ind w:firstLineChars="0"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman"/>
+                                            <w:b/>
+                                            <w:color w:val="225AA7"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>掩盖孕妈维生素</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>B12</w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"
+                                                      w:cs="Times New Roman" w:hint="eastAsia"/>
+                                            <w:color w:val="404040"/>
+                                            <w:sz w:val="20"/>
+                                            <w:szCs w:val="20"/>
+                                        </w:rPr>
+                                        <w:t>缺乏，孕妈健康受损。</w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p w:rsidR="008A3D7E" w:rsidRDefault="008A3D7E"/>
+                    <w:sectPr w:rsidR="008A3D7E">
+                        <w:pgSz w:w="11906" w:h="16838"/>
+                        <w:pgMar w:top="1304" w:right="1304" w:bottom="1134" w:left="1304" w:header="851" w:footer="624"
+                                 w:gutter="0"/>
+                        <w:cols w:space="425"/>
+                        <w:docGrid w:type="lines" w:linePitch="312"/>
+                    </w:sectPr>
+                </w:body>
+            </w:document>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/header1.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml">
+        <pkg:xmlData>
+            <w:hdr mc:Ignorable="w14 w15 wp14"
+                   xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                   xmlns:o="urn:schemas-microsoft-com:office:office"
+                   xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                   xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                   xmlns:v="urn:schemas-microsoft-com:vml"
+                   xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                   xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                   xmlns:w10="urn:schemas-microsoft-com:office:word"
+                   xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                   xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                   xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                   xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                   xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                   xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                   xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:noProof/>
+                        </w:rPr>
+                        <w:drawing>
+                            <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0"
+                                       relativeHeight="251659264" behindDoc="0" locked="0" layoutInCell="1"
+                                       allowOverlap="1">
+                                <wp:simplePos x="0" y="0"/>
+                                <wp:positionH relativeFrom="column">
+                                    <wp:posOffset>5029200</wp:posOffset>
+                                </wp:positionH>
+                                <wp:positionV relativeFrom="paragraph">
+                                    <wp:posOffset>-323850</wp:posOffset>
+                                </wp:positionV>
+                                <wp:extent cx="1136015" cy="431800"/>
+                                <wp:effectExtent l="0" t="0" r="7620" b="6350"/>
+                                <wp:wrapNone/>
+                                <wp:docPr id="4" name="图片 4"/>
+                                <wp:cNvGraphicFramePr>
+                                    <a:graphicFrameLocks noChangeAspect="1"
+                                                         xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                </wp:cNvGraphicFramePr>
+                                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                    <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                        <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                            <pic:nvPicPr>
+                                                <pic:cNvPr id="4" name="图片 4"/>
+                                                <pic:cNvPicPr>
+                                                    <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                                </pic:cNvPicPr>
+                                            </pic:nvPicPr>
+                                            <pic:blipFill>
+                                                <a:blip r:embed="rId1" cstate="print">
+                                                    <a:extLst>
+                                                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                            <a14:useLocalDpi val="0"
+                                                                             xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                                        </a:ext>
+                                                    </a:extLst>
+                                                </a:blip>
+                                                <a:stretch>
+                                                    <a:fillRect/>
+                                                </a:stretch>
+                                            </pic:blipFill>
+                                            <pic:spPr>
+                                                <a:xfrm>
+                                                    <a:off x="0" y="0"/>
+                                                    <a:ext cx="1136015" cy="431800"/>
+                                                </a:xfrm>
+                                                <a:prstGeom prst="rect">
+                                                    <a:avLst/>
+                                                </a:prstGeom>
+                                                <a:noFill/>
+                                                <a:ln>
+                                                    <a:noFill/>
+                                                </a:ln>
+                                            </pic:spPr>
+                                        </pic:pic>
+                                    </a:graphicData>
+                                </a:graphic>
+                            </wp:anchor>
+                        </w:drawing>
+                    </w:r>
+                </w:p>
+            </w:hdr>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/endnotes.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml">
+        <pkg:xmlData>
+            <w:endnotes mc:Ignorable="w14 w15 wp14"
+                        xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                        xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                        xmlns:v="urn:schemas-microsoft-com:vml"
+                        xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                        xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                        xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                        xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                        xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                        xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:endnote w:type="separator" w:id="-1">
+                    <w:p w:rsidR="00514A9C" w:rsidRDefault="00514A9C">
+                        <w:r>
+                            <w:separator/>
+                        </w:r>
+                    </w:p>
+                </w:endnote>
+                <w:endnote w:type="continuationSeparator" w:id="0">
+                    <w:p w:rsidR="00514A9C" w:rsidRDefault="00514A9C">
+                        <w:r>
+                            <w:continuationSeparator/>
+                        </w:r>
+                    </w:p>
+                </w:endnote>
+            </w:endnotes>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/footer1.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml">
+        <pkg:xmlData>
+            <w:ftr mc:Ignorable="w14 w15 wp14"
+                   xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                   xmlns:o="urn:schemas-microsoft-com:office:office"
+                   xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                   xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                   xmlns:v="urn:schemas-microsoft-com:vml"
+                   xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                   xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                   xmlns:w10="urn:schemas-microsoft-com:office:word"
+                   xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                   xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                   xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                   xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                   xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                   xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                   xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:p w:rsidR="008A3D7E" w:rsidRDefault="00514A9C">
+                    <w:pPr>
+                        <w:pStyle w:val="a3"/>
+                    </w:pPr>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                      w:hint="eastAsia"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>地址：北京市海淀区四季青杏石口路益园创新产业基地</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>C7</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>栋</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t xml:space="preserve">     </w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>热线：</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t xml:space="preserve">4006-881-555     </w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>官网：</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t xml:space="preserve">www.scisoon.cn     </w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                      w:hint="eastAsia"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>第</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="begin"/>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:instrText>PAGE \* MERGEFORMAT</w:instrText>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="separate"/>
+                    </w:r>
+                    <w:r w:rsidR="000F5B4B" w:rsidRPr="000F5B4B">
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:noProof/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                            <w:lang w:val="zh-CN"/>
+                        </w:rPr>
+                        <w:t>2</w:t>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:fldChar w:fldCharType="end"/>
+                    </w:r>
+                    <w:r>
+                        <w:rPr>
+                            <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:cs="Times New Roman"
+                                      w:hint="eastAsia"/>
+                            <w:color w:val="595959"/>
+                            <w:sz w:val="16"/>
+                            <w:szCs w:val="22"/>
+                        </w:rPr>
+                        <w:t>页</w:t>
+                    </w:r>
+                </w:p>
+            </w:ftr>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/_rels/header1.xml.rels"
+              pkg:contentType="application/vnd.openxmlformats-package.relationships+xml">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+                              Target="media/image1.png"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/footnotes.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml">
+        <pkg:xmlData>
+            <w:footnotes mc:Ignorable="w14 w15 wp14"
+                         xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                         xmlns:o="urn:schemas-microsoft-com:office:office"
+                         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                         xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                         xmlns:v="urn:schemas-microsoft-com:vml"
+                         xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                         xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                         xmlns:w10="urn:schemas-microsoft-com:office:word"
+                         xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                         xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                         xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                         xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                         xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                         xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                         xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:footnote w:type="separator" w:id="-1">
+                    <w:p w:rsidR="00514A9C" w:rsidRDefault="00514A9C">
+                        <w:r>
+                            <w:separator/>
+                        </w:r>
+                    </w:p>
+                </w:footnote>
+                <w:footnote w:type="continuationSeparator" w:id="0">
+                    <w:p w:rsidR="00514A9C" w:rsidRDefault="00514A9C">
+                        <w:r>
+                            <w:continuationSeparator/>
+                        </w:r>
+                    </w:p>
+                </w:footnote>
+            </w:footnotes>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/media/image2.jpeg" pkg:contentType="image/jpeg" pkg:compression="store">
+        <pkg:binaryData>/9j/4AAQSkZJRgABAQEA3ADcAAD/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYF
+            BgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoK
+            CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr/wAARCADZANkDASIA
+            AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+            AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+            ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+            p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+            AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+            BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+            U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+            uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKK
+            KACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+            A8m/bM/bM+EP7C/whT4z/GiLVptNn1aHTbOz0OzWe5ubmRZHCIruiDCRSOSzqMIeSSAflJf+Dkv9
+            hdunwv8Ait/4ItN/+WFH/ByWM/sL+Fx/1Vaw/wDTbqdeO/8ABJ3/AIJO/sa/tb/sa6V8ZvjP4W1i
+            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
+        </pkg:binaryData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/media/image1.png" pkg:contentType="image/png" pkg:compression="store">
+        <pkg:binaryData>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
+            0QkfQKfbtnJT/mixUOJfZt7LCEGjy1wFXya1lbyujOofD+K11h9RnsFjL4cfua3MIF+xfM/MHeNS
+            jpXJ+VVSbmlQTCqg8G1cjm53GjChsD4tB2rKS474Tlvs2I8sfaYp2xDW5kvRp69D4MX3cXoyDtj3
+            jBXGf+n0vfCHWW3Rl/fk49AfJjzaaB7N31dOg1FLWnq2cvqSLickCTRGAEQYDW+lzg4flpkG6j90
+            jkkI/N0UJ4jekfmJvNfAwvsEXYQq09M7OA+vAa3PljZ3hz6O5uytC5D/fnKgw09k/DddAga6sOpu
+            gpBdTkJE78l3A2H8WlJJDwwQTSiyT5uIpEIJp4GPOh3nwko/J8eopDW4GUINhQfh+xKv5gKLf8Cz
+            a8v14M8GBh5N+NdMAMd6eCZtgaDpO5n3pIyc/EWLDBfB6rkbn6/BPXAy0lp9dqV6awPzm1pfhFQh
+            C6/UXi2ldgPtG9AWH6COK/OOTGwbolufIBNXSZcBpzF50fYYJO4oTzc/jLqtdZUNZft84g/T4syQ
+            1ZCF/2OUeT24x3UPom+HQtz/NRRckwYIMzOA9QqXwHNd+ddACdMWCfBwBwbYL9JWAtdFsuAPoaOC
+            e8rKRUK0KXRN24rGSmZ0lyOitx7tK2slFS68VL9otDIT7oLsfIyc+pp/9KMLSJmVTwueQ++IJ4QF
+            uo2miwkM4TpAe36Mtkb0EizUF/ciXYHArz0CUHyvIr9Yeap1IlUWboevUzyuvbXipY079sNgvHN1
+            vfmmvbUOBd8FAgUCGQjAKnht5EcLrh/e0nHyF8AVCBQIFAgUCBQIFAgUCBQIFAgUCBQIFAgUCBQI
+            FAgUCBQIFAgUCPQDgf8P05RHU/ZlACQAAAAASUVORK5CYII=
+        </pkg:binaryData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/media/qrcode.jpeg" pkg:contentType="image/jpeg" pkg:compression="store">
+        <pkg:binaryData>${qrcode}
+        </pkg:binaryData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/theme/theme1.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.theme+xml">
+        <pkg:xmlData>
+            <a:theme name="Office 主题" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                <a:themeElements>
+                    <a:clrScheme name="Office">
+                        <a:dk1>
+                            <a:sysClr val="windowText" lastClr="000000"/>
+                        </a:dk1>
+                        <a:lt1>
+                            <a:sysClr val="window" lastClr="FFFFFF"/>
+                        </a:lt1>
+                        <a:dk2>
+                            <a:srgbClr val="44546A"/>
+                        </a:dk2>
+                        <a:lt2>
+                            <a:srgbClr val="E7E6E6"/>
+                        </a:lt2>
+                        <a:accent1>
+                            <a:srgbClr val="5B9BD5"/>
+                        </a:accent1>
+                        <a:accent2>
+                            <a:srgbClr val="ED7D31"/>
+                        </a:accent2>
+                        <a:accent3>
+                            <a:srgbClr val="A5A5A5"/>
+                        </a:accent3>
+                        <a:accent4>
+                            <a:srgbClr val="FFC000"/>
+                        </a:accent4>
+                        <a:accent5>
+                            <a:srgbClr val="4472C4"/>
+                        </a:accent5>
+                        <a:accent6>
+                            <a:srgbClr val="70AD47"/>
+                        </a:accent6>
+                        <a:hlink>
+                            <a:srgbClr val="0563C1"/>
+                        </a:hlink>
+                        <a:folHlink>
+                            <a:srgbClr val="954F72"/>
+                        </a:folHlink>
+                    </a:clrScheme>
+                    <a:fontScheme name="Office">
+                        <a:majorFont>
+                            <a:latin typeface="Calibri Light"/>
+                            <a:ea typeface=""/>
+                            <a:cs typeface=""/>
+                            <a:font script="Jpan" typeface="ＭＳ ゴシック"/>
+                            <a:font script="Hang" typeface="맑은 고딕"/>
+                            <a:font script="Hans" typeface="宋体"/>
+                            <a:font script="Hant" typeface="新細明體"/>
+                            <a:font script="Arab" typeface="Times New Roman"/>
+                            <a:font script="Hebr" typeface="Times New Roman"/>
+                            <a:font script="Thai" typeface="Angsana New"/>
+                            <a:font script="Ethi" typeface="Nyala"/>
+                            <a:font script="Beng" typeface="Vrinda"/>
+                            <a:font script="Gujr" typeface="Shruti"/>
+                            <a:font script="Khmr" typeface="MoolBoran"/>
+                            <a:font script="Knda" typeface="Tunga"/>
+                            <a:font script="Guru" typeface="Raavi"/>
+                            <a:font script="Cans" typeface="Euphemia"/>
+                            <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+                            <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+                            <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+                            <a:font script="Thaa" typeface="MV Boli"/>
+                            <a:font script="Deva" typeface="Mangal"/>
+                            <a:font script="Telu" typeface="Gautami"/>
+                            <a:font script="Taml" typeface="Latha"/>
+                            <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+                            <a:font script="Orya" typeface="Kalinga"/>
+                            <a:font script="Mlym" typeface="Kartika"/>
+                            <a:font script="Laoo" typeface="DokChampa"/>
+                            <a:font script="Sinh" typeface="Iskoola Pota"/>
+                            <a:font script="Mong" typeface="Mongolian Baiti"/>
+                            <a:font script="Viet" typeface="Times New Roman"/>
+                            <a:font script="Uigh" typeface="Microsoft Uighur"/>
+                            <a:font script="Geor" typeface="Sylfaen"/>
+                        </a:majorFont>
+                        <a:minorFont>
+                            <a:latin typeface="Calibri"/>
+                            <a:ea typeface=""/>
+                            <a:cs typeface=""/>
+                            <a:font script="Jpan" typeface="ＭＳ 明朝"/>
+                            <a:font script="Hang" typeface="맑은 고딕"/>
+                            <a:font script="Hans" typeface="宋体"/>
+                            <a:font script="Hant" typeface="新細明體"/>
+                            <a:font script="Arab" typeface="Arial"/>
+                            <a:font script="Hebr" typeface="Arial"/>
+                            <a:font script="Thai" typeface="Cordia New"/>
+                            <a:font script="Ethi" typeface="Nyala"/>
+                            <a:font script="Beng" typeface="Vrinda"/>
+                            <a:font script="Gujr" typeface="Shruti"/>
+                            <a:font script="Khmr" typeface="DaunPenh"/>
+                            <a:font script="Knda" typeface="Tunga"/>
+                            <a:font script="Guru" typeface="Raavi"/>
+                            <a:font script="Cans" typeface="Euphemia"/>
+                            <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+                            <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+                            <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+                            <a:font script="Thaa" typeface="MV Boli"/>
+                            <a:font script="Deva" typeface="Mangal"/>
+                            <a:font script="Telu" typeface="Gautami"/>
+                            <a:font script="Taml" typeface="Latha"/>
+                            <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+                            <a:font script="Orya" typeface="Kalinga"/>
+                            <a:font script="Mlym" typeface="Kartika"/>
+                            <a:font script="Laoo" typeface="DokChampa"/>
+                            <a:font script="Sinh" typeface="Iskoola Pota"/>
+                            <a:font script="Mong" typeface="Mongolian Baiti"/>
+                            <a:font script="Viet" typeface="Arial"/>
+                            <a:font script="Uigh" typeface="Microsoft Uighur"/>
+                            <a:font script="Geor" typeface="Sylfaen"/>
+                        </a:minorFont>
+                    </a:fontScheme>
+                    <a:fmtScheme name="Office">
+                        <a:fillStyleLst>
+                            <a:solidFill>
+                                <a:schemeClr val="phClr"/>
+                            </a:solidFill>
+                            <a:gradFill rotWithShape="1">
+                                <a:gsLst>
+                                    <a:gs pos="0">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="110000"/>
+                                            <a:satMod val="105000"/>
+                                            <a:tint val="67000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="50000">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="105000"/>
+                                            <a:satMod val="103000"/>
+                                            <a:tint val="73000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="100000">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="105000"/>
+                                            <a:satMod val="109000"/>
+                                            <a:tint val="81000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                </a:gsLst>
+                                <a:lin ang="5400000" scaled="0"/>
+                            </a:gradFill>
+                            <a:gradFill rotWithShape="1">
+                                <a:gsLst>
+                                    <a:gs pos="0">
+                                        <a:schemeClr val="phClr">
+                                            <a:satMod val="103000"/>
+                                            <a:lumMod val="102000"/>
+                                            <a:tint val="94000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="50000">
+                                        <a:schemeClr val="phClr">
+                                            <a:satMod val="110000"/>
+                                            <a:lumMod val="100000"/>
+                                            <a:shade val="100000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="100000">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="99000"/>
+                                            <a:satMod val="120000"/>
+                                            <a:shade val="78000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                </a:gsLst>
+                                <a:lin ang="5400000" scaled="0"/>
+                            </a:gradFill>
+                        </a:fillStyleLst>
+                        <a:lnStyleLst>
+                            <a:ln w="6350" cap="flat" cmpd="sng" algn="ctr">
+                                <a:solidFill>
+                                    <a:schemeClr val="phClr"/>
+                                </a:solidFill>
+                                <a:prstDash val="solid"/>
+                                <a:miter lim="800000"/>
+                            </a:ln>
+                            <a:ln w="12700" cap="flat" cmpd="sng" algn="ctr">
+                                <a:solidFill>
+                                    <a:schemeClr val="phClr"/>
+                                </a:solidFill>
+                                <a:prstDash val="solid"/>
+                                <a:miter lim="800000"/>
+                            </a:ln>
+                            <a:ln w="19050" cap="flat" cmpd="sng" algn="ctr">
+                                <a:solidFill>
+                                    <a:schemeClr val="phClr"/>
+                                </a:solidFill>
+                                <a:prstDash val="solid"/>
+                                <a:miter lim="800000"/>
+                            </a:ln>
+                        </a:lnStyleLst>
+                        <a:effectStyleLst>
+                            <a:effectStyle>
+                                <a:effectLst/>
+                            </a:effectStyle>
+                            <a:effectStyle>
+                                <a:effectLst/>
+                            </a:effectStyle>
+                            <a:effectStyle>
+                                <a:effectLst>
+                                    <a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                                        <a:srgbClr val="000000">
+                                            <a:alpha val="63000"/>
+                                        </a:srgbClr>
+                                    </a:outerShdw>
+                                </a:effectLst>
+                            </a:effectStyle>
+                        </a:effectStyleLst>
+                        <a:bgFillStyleLst>
+                            <a:solidFill>
+                                <a:schemeClr val="phClr"/>
+                            </a:solidFill>
+                            <a:solidFill>
+                                <a:schemeClr val="phClr">
+                                    <a:tint val="95000"/>
+                                    <a:satMod val="170000"/>
+                                </a:schemeClr>
+                            </a:solidFill>
+                            <a:gradFill rotWithShape="1">
+                                <a:gsLst>
+                                    <a:gs pos="0">
+                                        <a:schemeClr val="phClr">
+                                            <a:tint val="93000"/>
+                                            <a:satMod val="150000"/>
+                                            <a:shade val="98000"/>
+                                            <a:lumMod val="102000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="50000">
+                                        <a:schemeClr val="phClr">
+                                            <a:tint val="98000"/>
+                                            <a:satMod val="130000"/>
+                                            <a:shade val="90000"/>
+                                            <a:lumMod val="103000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="100000">
+                                        <a:schemeClr val="phClr">
+                                            <a:shade val="63000"/>
+                                            <a:satMod val="120000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                </a:gsLst>
+                                <a:lin ang="5400000" scaled="0"/>
+                            </a:gradFill>
+                        </a:bgFillStyleLst>
+                    </a:fmtScheme>
+                </a:themeElements>
+                <a:objectDefaults/>
+                <a:extraClrSchemeLst/>
+            </a:theme>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/settings.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml">
+        <pkg:xmlData>
+            <w:settings mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                        xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                        xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                        xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                        xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main">
+                <w:zoom w:percent="100"/>
+                <w:doNotDisplayPageBoundaries/>
+                <w:bordersDoNotSurroundHeader/>
+                <w:bordersDoNotSurroundFooter/>
+                <w:defaultTabStop w:val="420"/>
+                <w:drawingGridHorizontalSpacing w:val="105"/>
+                <w:drawingGridVerticalSpacing w:val="156"/>
+                <w:displayHorizontalDrawingGridEvery w:val="0"/>
+                <w:displayVerticalDrawingGridEvery w:val="2"/>
+                <w:characterSpacingControl w:val="compressPunctuation"/>
+                <w:footnotePr>
+                    <w:footnote w:id="-1"/>
+                    <w:footnote w:id="0"/>
+                </w:footnotePr>
+                <w:endnotePr>
+                    <w:endnote w:id="-1"/>
+                    <w:endnote w:id="0"/>
+                </w:endnotePr>
+                <w:compat>
+                    <w:spaceForUL/>
+                    <w:balanceSingleByteDoubleByteWidth/>
+                    <w:doNotLeaveBackslashAlone/>
+                    <w:ulTrailSpace/>
+                    <w:doNotExpandShiftReturn/>
+                    <w:adjustLineHeightInTable/>
+                    <w:useFELayout/>
+                    <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word"
+                                     w:val="15"/>
+                    <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification"
+                                     w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+                    <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word"
+                                     w:val="1"/>
+                    <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word"
+                                     w:val="1"/>
+                    <w:compatSetting w:name="differentiateMultirowTableHeaders"
+                                     w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+                </w:compat>
+                <w:rsids>
+                    <w:rsidRoot w:val="00A95365"/>
+                    <w:rsid w:val="0000566B"/>
+                    <w:rsid w:val="00011B13"/>
+                    <w:rsid w:val="00012D38"/>
+                    <w:rsid w:val="000A3C47"/>
+                    <w:rsid w:val="000C0CC3"/>
+                    <w:rsid w:val="000F0FFE"/>
+                    <w:rsid w:val="000F5B4B"/>
+                    <w:rsid w:val="001106C3"/>
+                    <w:rsid w:val="0012203A"/>
+                    <w:rsid w:val="001638F4"/>
+                    <w:rsid w:val="001D31BB"/>
+                    <w:rsid w:val="00210A4A"/>
+                    <w:rsid w:val="00226645"/>
+                    <w:rsid w:val="0026315B"/>
+                    <w:rsid w:val="00274BCE"/>
+                    <w:rsid w:val="002A0430"/>
+                    <w:rsid w:val="002C6B25"/>
+                    <w:rsid w:val="003222C2"/>
+                    <w:rsid w:val="00337E8C"/>
+                    <w:rsid w:val="00357804"/>
+                    <w:rsid w:val="003D3DCF"/>
+                    <w:rsid w:val="003E6481"/>
+                    <w:rsid w:val="00402106"/>
+                    <w:rsid w:val="004375E1"/>
+                    <w:rsid w:val="0047432E"/>
+                    <w:rsid w:val="0048535A"/>
+                    <w:rsid w:val="004B5285"/>
+                    <w:rsid w:val="004D79B5"/>
+                    <w:rsid w:val="00514739"/>
+                    <w:rsid w:val="00514A9C"/>
+                    <w:rsid w:val="005E3DD5"/>
+                    <w:rsid w:val="00624539"/>
+                    <w:rsid w:val="006341BE"/>
+                    <w:rsid w:val="00643D77"/>
+                    <w:rsid w:val="00692DC3"/>
+                    <w:rsid w:val="006A69F4"/>
+                    <w:rsid w:val="006C168E"/>
+                    <w:rsid w:val="006C70BD"/>
+                    <w:rsid w:val="006D5BD8"/>
+                    <w:rsid w:val="006D79BA"/>
+                    <w:rsid w:val="007151AA"/>
+                    <w:rsid w:val="00737239"/>
+                    <w:rsid w:val="00782A88"/>
+                    <w:rsid w:val="0079255E"/>
+                    <w:rsid w:val="007E0FF7"/>
+                    <w:rsid w:val="00803E7D"/>
+                    <w:rsid w:val="00815041"/>
+                    <w:rsid w:val="008766E9"/>
+                    <w:rsid w:val="008A33D1"/>
+                    <w:rsid w:val="008A3D7E"/>
+                    <w:rsid w:val="008B772E"/>
+                    <w:rsid w:val="008C557D"/>
+                    <w:rsid w:val="008D333A"/>
+                    <w:rsid w:val="00922554"/>
+                    <w:rsid w:val="0097434C"/>
+                    <w:rsid w:val="00996C90"/>
+                    <w:rsid w:val="00A0128B"/>
+                    <w:rsid w:val="00A214FE"/>
+                    <w:rsid w:val="00A631ED"/>
+                    <w:rsid w:val="00A95365"/>
+                    <w:rsid w:val="00AA774C"/>
+                    <w:rsid w:val="00AD1D28"/>
+                    <w:rsid w:val="00AD230C"/>
+                    <w:rsid w:val="00B108C3"/>
+                    <w:rsid w:val="00B1760A"/>
+                    <w:rsid w:val="00B41A63"/>
+                    <w:rsid w:val="00B45866"/>
+                    <w:rsid w:val="00B53A86"/>
+                    <w:rsid w:val="00B85074"/>
+                    <w:rsid w:val="00B94F17"/>
+                    <w:rsid w:val="00B95353"/>
+                    <w:rsid w:val="00BD1F71"/>
+                    <w:rsid w:val="00BF7CEC"/>
+                    <w:rsid w:val="00C00F46"/>
+                    <w:rsid w:val="00C02BE6"/>
+                    <w:rsid w:val="00C76CCB"/>
+                    <w:rsid w:val="00CA1167"/>
+                    <w:rsid w:val="00CE149E"/>
+                    <w:rsid w:val="00CE74C9"/>
+                    <w:rsid w:val="00D07858"/>
+                    <w:rsid w:val="00D11F54"/>
+                    <w:rsid w:val="00D179BA"/>
+                    <w:rsid w:val="00D21769"/>
+                    <w:rsid w:val="00D7250A"/>
+                    <w:rsid w:val="00DA5DDB"/>
+                    <w:rsid w:val="00DC2F60"/>
+                    <w:rsid w:val="00E07412"/>
+                    <w:rsid w:val="00E4273B"/>
+                    <w:rsid w:val="00E576F2"/>
+                    <w:rsid w:val="00E809A3"/>
+                    <w:rsid w:val="00E94319"/>
+                    <w:rsid w:val="00EA7D40"/>
+                    <w:rsid w:val="00EF3A09"/>
+                    <w:rsid w:val="00EF4C61"/>
+                    <w:rsid w:val="00F653EE"/>
+                    <w:rsid w:val="00F923D1"/>
+                    <w:rsid w:val="00FA3DD5"/>
+                    <w:rsid w:val="00FB30B2"/>
+                    <w:rsid w:val="00FB4E49"/>
+                    <w:rsid w:val="00FB5699"/>
+                    <w:rsid w:val="00FD542E"/>
+                    <w:rsid w:val="40C56081"/>
+                </w:rsids>
+                <m:mathPr>
+                    <m:mathFont m:val="Cambria Math"/>
+                    <m:brkBin m:val="before"/>
+                    <m:brkBinSub m:val="--"/>
+                    <m:smallFrac m:val="0"/>
+                    <m:dispDef/>
+                    <m:lMargin m:val="0"/>
+                    <m:rMargin m:val="0"/>
+                    <m:defJc m:val="centerGroup"/>
+                    <m:wrapIndent m:val="1440"/>
+                    <m:intLim m:val="subSup"/>
+                    <m:naryLim m:val="undOvr"/>
+                </m:mathPr>
+                <w:themeFontLang w:val="en-US" w:eastAsia="zh-CN"/>
+                <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1"
+                                    w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5"
+                                    w:accent6="accent6" w:hyperlink="hyperlink"
+                                    w:followedHyperlink="followedHyperlink"/>
+                <w:shapeDefaults>
+                    <o:shapedefaults v:ext="edit" spidmax="1026" fillcolor="white">
+                        <v:fill color="white"/>
+                    </o:shapedefaults>
+                    <o:shapelayout v:ext="edit">
+                        <o:idmap v:ext="edit" data="1"/>
+                    </o:shapelayout>
+                </w:shapeDefaults>
+                <w:decimalSymbol w:val="."/>
+                <w:listSeparator w:val=","/>
+                <w15:docId w15:val="{C6CB2471-8E98-4067-8021-6765C246DB81}"/>
+            </w:settings>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/customXml/item2.xml" pkg:contentType="application/xml" pkg:padding="32">
+        <pkg:xmlData>
+            <b:Sources SelectedStyle="\APASixthEditionOfficeOnline.xsl" StyleName="APA" Version="6"
+                       xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"
+                       xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"/>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/customXml/itemProps2.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.customXmlProperties+xml" pkg:padding="32">
+        <pkg:xmlData pkg:originalXmlStandalone="no">
+            <ds:datastoreItem ds:itemID="{33C8EEC6-B390-409C-BF00-ACE47A1ADF89}"
+                              xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml">
+                <ds:schemaRefs>
+                    <ds:schemaRef ds:uri="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"/>
+                </ds:schemaRefs>
+            </ds:datastoreItem>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/docProps/custom.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.custom-properties+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/custom-properties"
+                        xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+                <property fmtid="{D5CDD505-2E9C-101B-9397-08002B2CF9AE}" pid="2" name="KSOProductBuildVer">
+                    <vt:lpwstr>2052-11.1.0.9175</vt:lpwstr>
+                </property>
+            </Properties>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/customXml/_rels/item1.xml.rels"
+              pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId1"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps"
+                              Target="itemProps1.xml"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/customXml/_rels/item2.xml.rels"
+              pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId1"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps"
+                              Target="itemProps2.xml"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/customXml/itemProps1.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.customXmlProperties+xml" pkg:padding="32">
+        <pkg:xmlData pkg:originalXmlStandalone="no">
+            <ds:datastoreItem ds:itemID="{B1977F7D-205B-4081-913C-38D41E755F92}"
+                              xmlns:ds="http://schemas.openxmlformats.org/officeDocument/2006/customXml">
+                <ds:schemaRefs>
+                    <ds:schemaRef ds:uri="http://www.wps.cn/officeDocument/2013/wpsCustomData"/>
+                </ds:schemaRefs>
+            </ds:datastoreItem>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/customXml/item1.xml" pkg:contentType="application/xml" pkg:padding="32">
+        <pkg:xmlData>
+            <s:customData xmlns="http://www.wps.cn/officeDocument/2013/wpsCustomData"
+                          xmlns:s="http://www.wps.cn/officeDocument/2013/wpsCustomData">
+                <customSectProps>
+                    <customSectPr/>
+                    <customSectPr/>
+                </customSectProps>
+                <customShpExts>
+                    <customShpInfo spid="_x0000_s1026"/>
+                </customShpExts>
+            </s:customData>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/docProps/core.xml" pkg:contentType="application/vnd.openxmlformats-package.core-properties+xml"
+              pkg:padding="256">
+        <pkg:xmlData>
+            <cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+                               xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+                               xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+                               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <dc:creator>liyangyang</dc:creator>
+                <cp:lastModifiedBy>jianzhiping</cp:lastModifiedBy>
+                <cp:revision>2</cp:revision>
+                <cp:lastPrinted>2018-01-22T01:31:00Z</cp:lastPrinted>
+                <dcterms:created xsi:type="dcterms:W3CDTF">2019-10-29T07:10:00Z</dcterms:created>
+                <dcterms:modified xsi:type="dcterms:W3CDTF">2019-10-29T07:10:00Z</dcterms:modified>
+            </cp:coreProperties>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/numbering.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml">
+        <pkg:xmlData>
+            <w:numbering mc:Ignorable="w14 w15 wp14"
+                         xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                         xmlns:o="urn:schemas-microsoft-com:office:office"
+                         xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                         xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                         xmlns:v="urn:schemas-microsoft-com:vml"
+                         xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                         xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                         xmlns:w10="urn:schemas-microsoft-com:office:word"
+                         xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                         xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                         xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                         xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                         xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                         xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                         xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:abstractNum w:abstractNumId="0">
+                    <w:nsid w:val="16422683"/>
+                    <w:multiLevelType w:val="multilevel"/>
+                    <w:tmpl w:val="16422683"/>
+                    <w:lvl w:ilvl="0">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="420" w:hanging="250"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="1">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="840" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="2">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="1260" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="3">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="1680" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="4">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="2100" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="5">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="2520" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="6">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="2940" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="7">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="3360" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="8">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="3780" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                </w:abstractNum>
+                <w:abstractNum w:abstractNumId="1">
+                    <w:nsid w:val="1B9A2A8A"/>
+                    <w:multiLevelType w:val="multilevel"/>
+                    <w:tmpl w:val="1B9A2A8A"/>
+                    <w:lvl w:ilvl="0">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="420" w:hanging="250"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                            <w:color w:val="auto"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="1">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="840" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="2">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="1260" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="3">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="1680" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="4">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="2100" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="5">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="2520" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="6">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="2940" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="7">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="3360" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                    <w:lvl w:ilvl="8">
+                        <w:start w:val="1"/>
+                        <w:numFmt w:val="bullet"/>
+                        <w:lvlText w:val=""/>
+                        <w:lvlJc w:val="left"/>
+                        <w:pPr>
+                            <w:ind w:left="3780" w:hanging="420"/>
+                        </w:pPr>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Wingdings" w:hAnsi="Wingdings" w:hint="default"/>
+                        </w:rPr>
+                    </w:lvl>
+                </w:abstractNum>
+                <w:num w:numId="1">
+                    <w:abstractNumId w:val="0"/>
+                </w:num>
+                <w:num w:numId="2">
+                    <w:abstractNumId w:val="1"/>
+                </w:num>
+            </w:numbering>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/styles.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
+        <pkg:xmlData>
+            <w:styles mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                      xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                      xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                      xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml">
+                <w:docDefaults>
+                    <w:rPrDefault>
+                        <w:rPr>
+                            <w:rFonts w:asciiTheme="minorHAnsi" w:eastAsiaTheme="minorEastAsia"
+                                      w:hAnsiTheme="minorHAnsi" w:cstheme="minorBidi"/>
+                            <w:lang w:val="en-US" w:eastAsia="zh-CN" w:bidi="ar-SA"/>
+                        </w:rPr>
+                    </w:rPrDefault>
+                    <w:pPrDefault/>
+                </w:docDefaults>
+                <w:latentStyles w:defLockedState="0" w:defUIPriority="99" w:defSemiHidden="0" w:defUnhideWhenUsed="0"
+                                w:defQFormat="0" w:count="371">
+                    <w:lsdException w:name="Normal" w:uiPriority="0" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 1" w:uiPriority="9" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 2" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 3" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 4" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 5" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 6" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 7" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 8" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="heading 9" w:semiHidden="1" w:uiPriority="9" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="index 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 6" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 7" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 8" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index 9" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 1" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 2" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 3" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 4" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 5" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 6" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 7" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 8" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toc 9" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Normal Indent" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="footnote text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="annotation text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="header" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="footer" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="index heading" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="caption" w:semiHidden="1" w:uiPriority="35" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="table of figures" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="envelope address" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="envelope return" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="footnote reference" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="annotation reference" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="line number" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="page number" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="endnote reference" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="endnote text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="table of authorities" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="macro" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="toa heading" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Bullet" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Number" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Bullet 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Bullet 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Bullet 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Bullet 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Number 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Number 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Number 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Number 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Title" w:uiPriority="10" w:qFormat="1"/>
+                    <w:lsdException w:name="Closing" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Signature" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Default Paragraph Font" w:semiHidden="1" w:uiPriority="1"
+                                    w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text Indent" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Continue" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Continue 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Continue 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Continue 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Continue 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Message Header" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Subtitle" w:uiPriority="11" w:qFormat="1"/>
+                    <w:lsdException w:name="Salutation" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Date" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text First Indent" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text First Indent 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Note Heading" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text Indent 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Body Text Indent 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Block Text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Hyperlink" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="FollowedHyperlink" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Strong" w:uiPriority="22" w:qFormat="1"/>
+                    <w:lsdException w:name="Emphasis" w:uiPriority="20" w:qFormat="1"/>
+                    <w:lsdException w:name="Document Map" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Plain Text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="E-mail Signature" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Top of Form" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Bottom of Form" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Normal (Web)" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Acronym" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Address" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Cite" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Code" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Definition" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Keyboard" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Preformatted" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Sample" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Typewriter" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Variable" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Normal Table" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="annotation subject" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="No List" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Outline List 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Outline List 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Outline List 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Simple 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Simple 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Simple 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Colorful 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Colorful 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Colorful 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 6" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 7" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 8" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 6" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 7" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 8" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table 3D effects 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table 3D effects 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table 3D effects 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Contemporary" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Elegant" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Professional" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Subtle 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Subtle 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Web 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Web 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Web 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Balloon Text" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid" w:semiHidden="1" w:uiPriority="59" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="Table Theme" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Placeholder Text" w:semiHidden="1"/>
+                    <w:lsdException w:name="Light Shading" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 1" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 1" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 1" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 1" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 1" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 1" w:uiPriority="65"/>
+                    <w:lsdException w:name="Revision" w:semiHidden="1"/>
+                    <w:lsdException w:name="List Paragraph" w:uiPriority="34" w:qFormat="1"/>
+                    <w:lsdException w:name="Medium List 2 Accent 1" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 1" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 1" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 1" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 1" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 1" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 1" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 1" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 2" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 2" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 2" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 2" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 2" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 2" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 2" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 2" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 2" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 2" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 2" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 2" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 2" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 2" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 3" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 3" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 3" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 3" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 3" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 3" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 3" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 3" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 3" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 3" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 3" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 3" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 3" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 3" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 4" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 4" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 4" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 4" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 4" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 4" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 4" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 4" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 4" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 4" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 4" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 4" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 4" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 4" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 5" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 5" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 5" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 5" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 5" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 5" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 5" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 5" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 5" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 5" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 5" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 5" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 5" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 5" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 6" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 6" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 6" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 6" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 6" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 6" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 6" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 6" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 6" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 6" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 6" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 6" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 6" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 6" w:uiPriority="73"/>
+                    <w:lsdException w:name="Subtle Emphasis" w:uiPriority="19" w:qFormat="1"/>
+                    <w:lsdException w:name="Intense Emphasis" w:uiPriority="21" w:qFormat="1"/>
+                    <w:lsdException w:name="Subtle Reference" w:uiPriority="31" w:qFormat="1"/>
+                    <w:lsdException w:name="Intense Reference" w:uiPriority="32" w:qFormat="1"/>
+                    <w:lsdException w:name="Book Title" w:uiPriority="33" w:qFormat="1"/>
+                    <w:lsdException w:name="Bibliography" w:semiHidden="1" w:uiPriority="37" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="TOC Heading" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="Plain Table 1" w:uiPriority="41"/>
+                    <w:lsdException w:name="Plain Table 2" w:uiPriority="42"/>
+                    <w:lsdException w:name="Plain Table 3" w:uiPriority="43"/>
+                    <w:lsdException w:name="Plain Table 4" w:uiPriority="44"/>
+                    <w:lsdException w:name="Plain Table 5" w:uiPriority="45"/>
+                    <w:lsdException w:name="Grid Table Light" w:uiPriority="40"/>
+                    <w:lsdException w:name="Grid Table 1 Light" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 1" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 1" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 1" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 1" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 1" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 1" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 1" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 2" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 2" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 2" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 2" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 2" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 2" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 3" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 3" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 3" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 3" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 3" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 3" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 4" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 4" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 4" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 4" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 4" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 4" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 5" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 5" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 5" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 5" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 5" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 5" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 5" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 6" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 6" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 6" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 6" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 6" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 6" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 6" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 1" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 1" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 1" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 1" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 1" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 1" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 1" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 2" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 2" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 2" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 2" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 2" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 2" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 3" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 3" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 3" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 3" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 3" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 3" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 4" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 4" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 4" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 4" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 4" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 4" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 5" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 5" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 5" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 5" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 5" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 5" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 5" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 6" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 6" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 6" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 6" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 6" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 6" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 6" w:uiPriority="52"/>
+                </w:latentStyles>
+                <w:style w:type="paragraph" w:default="1" w:styleId="a">
+                    <w:name w:val="Normal"/>
+                    <w:qFormat/>
+                    <w:pPr>
+                        <w:widowControl w:val="0"/>
+                        <w:jc w:val="both"/>
+                    </w:pPr>
+                    <w:rPr>
+                        <w:kern w:val="2"/>
+                        <w:sz w:val="21"/>
+                        <w:szCs w:val="22"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="character" w:default="1" w:styleId="a0">
+                    <w:name w:val="Default Paragraph Font"/>
+                    <w:uiPriority w:val="1"/>
+                    <w:semiHidden/>
+                    <w:unhideWhenUsed/>
+                </w:style>
+                <w:style w:type="table" w:default="1" w:styleId="a1">
+                    <w:name w:val="Normal Table"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:semiHidden/>
+                    <w:unhideWhenUsed/>
+                    <w:tblPr>
+                        <w:tblInd w:w="0" w:type="dxa"/>
+                        <w:tblCellMar>
+                            <w:top w:w="0" w:type="dxa"/>
+                            <w:left w:w="108" w:type="dxa"/>
+                            <w:bottom w:w="0" w:type="dxa"/>
+                            <w:right w:w="108" w:type="dxa"/>
+                        </w:tblCellMar>
+                    </w:tblPr>
+                </w:style>
+                <w:style w:type="numbering" w:default="1" w:styleId="a2">
+                    <w:name w:val="No List"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:semiHidden/>
+                    <w:unhideWhenUsed/>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a3">
+                    <w:name w:val="footer"/>
+                    <w:basedOn w:val="a"/>
+                    <w:link w:val="Char"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:unhideWhenUsed/>
+                    <w:pPr>
+                        <w:tabs>
+                            <w:tab w:val="center" w:pos="4153"/>
+                            <w:tab w:val="right" w:pos="8306"/>
+                        </w:tabs>
+                        <w:snapToGrid w:val="0"/>
+                        <w:jc w:val="left"/>
+                    </w:pPr>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a4">
+                    <w:name w:val="header"/>
+                    <w:basedOn w:val="a"/>
+                    <w:link w:val="Char0"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:unhideWhenUsed/>
+                    <w:pPr>
+                        <w:pBdr>
+                            <w:bottom w:val="single" w:sz="6" w:space="1" w:color="auto"/>
+                        </w:pBdr>
+                        <w:tabs>
+                            <w:tab w:val="center" w:pos="4153"/>
+                            <w:tab w:val="right" w:pos="8306"/>
+                        </w:tabs>
+                        <w:snapToGrid w:val="0"/>
+                        <w:jc w:val="center"/>
+                    </w:pPr>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="table" w:styleId="a5">
+                    <w:name w:val="Table Grid"/>
+                    <w:basedOn w:val="a1"/>
+                    <w:uiPriority w:val="59"/>
+                    <w:qFormat/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Calibri" w:eastAsia="Times New Roman" w:hAnsi="Calibri"
+                                  w:cs="Times New Roman"/>
+                    </w:rPr>
+                    <w:tblPr>
+                        <w:tblInd w:w="0" w:type="dxa"/>
+                        <w:tblBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                        </w:tblBorders>
+                        <w:tblCellMar>
+                            <w:top w:w="0" w:type="dxa"/>
+                            <w:left w:w="108" w:type="dxa"/>
+                            <w:bottom w:w="0" w:type="dxa"/>
+                            <w:right w:w="108" w:type="dxa"/>
+                        </w:tblCellMar>
+                    </w:tblPr>
+                </w:style>
+                <w:style w:type="character" w:styleId="a6">
+                    <w:name w:val="Hyperlink"/>
+                    <w:basedOn w:val="a0"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:unhideWhenUsed/>
+                    <w:qFormat/>
+                    <w:rPr>
+                        <w:color w:val="0563C1" w:themeColor="hyperlink"/>
+                        <w:u w:val="single"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="character" w:customStyle="1" w:styleId="Char0">
+                    <w:name w:val="页眉 Char"/>
+                    <w:basedOn w:val="a0"/>
+                    <w:link w:val="a4"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="character" w:customStyle="1" w:styleId="Char">
+                    <w:name w:val="页脚 Char"/>
+                    <w:basedOn w:val="a0"/>
+                    <w:link w:val="a3"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a7">
+                    <w:name w:val="List Paragraph"/>
+                    <w:basedOn w:val="a"/>
+                    <w:uiPriority w:val="34"/>
+                    <w:qFormat/>
+                    <w:pPr>
+                        <w:ind w:firstLineChars="200" w:firstLine="420"/>
+                    </w:pPr>
+                </w:style>
+            </w:styles>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/webSettings.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml">
+        <pkg:xmlData>
+            <w:webSettings mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                           xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                           xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                           xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                           xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"/>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/fontTable.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml">
+        <pkg:xmlData>
+            <w:fonts mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                     xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                     xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                     xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml">
+                <w:font w:name="Wingdings">
+                    <w:panose1 w:val="05000000000000000000"/>
+                    <w:charset w:val="02"/>
+                    <w:family w:val="auto"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="00000000" w:usb1="10000000" w:usb2="00000000" w:usb3="00000000" w:csb0="80000000"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="Times New Roman">
+                    <w:panose1 w:val="02020603050405020304"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="roman"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="E0002EFF" w:usb1="C000785B" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="Calibri">
+                    <w:panose1 w:val="020F0502020204030204"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="swiss"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="E0002AFF" w:usb1="C000247B" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="宋体">
+                    <w:altName w:val="SimSun"/>
+                    <w:panose1 w:val="02010600030101010101"/>
+                    <w:charset w:val="86"/>
+                    <w:family w:val="auto"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="00000003" w:usb1="288F0000" w:usb2="00000016" w:usb3="00000000" w:csb0="00040001"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="微软雅黑">
+                    <w:panose1 w:val="020B0503020204020204"/>
+                    <w:charset w:val="86"/>
+                    <w:family w:val="swiss"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="80000287" w:usb1="2ACF3C50" w:usb2="00000016" w:usb3="00000000" w:csb0="0004001F"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="Calibri Light">
+                    <w:panose1 w:val="020F0302020204030204"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="swiss"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="E0002AFF" w:usb1="C000247B" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF"
+                           w:csb1="00000000"/>
+                </w:font>
+            </w:fonts>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/docProps/app.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.extended-properties+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties"
+                        xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+                <Template>Normal.dotm</Template>
+                <TotalTime>0</TotalTime>
+                <Pages>2</Pages>
+                <Words>253</Words>
+                <Characters>1443</Characters>
+                <Application>Microsoft Office Word</Application>
+                <DocSecurity>0</DocSecurity>
+                <Lines>12</Lines>
+                <Paragraphs>3</Paragraphs>
+                <ScaleCrop>false</ScaleCrop>
+                <Company>Microsoft</Company>
+                <LinksUpToDate>false</LinksUpToDate>
+                <CharactersWithSpaces>1693</CharactersWithSpaces>
+                <SharedDoc>false</SharedDoc>
+                <HyperlinksChanged>false</HyperlinksChanged>
+                <AppVersion>15.0000</AppVersion>
+            </Properties>
+        </pkg:xmlData>
+    </pkg:part>
+</pkg:package>

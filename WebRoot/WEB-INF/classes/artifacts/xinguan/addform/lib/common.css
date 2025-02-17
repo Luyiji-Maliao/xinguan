@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0; padding:0; list-style:none; text-decoration:none; font-family:"微软雅黑";}
+.clear{clear:both}
+img{ border:0;}
+.clear{ clear:both}
+
+/*heard*/
+
+.header{ width:100%; height:83px; border-bottom:1px solid #6d9940; background:#FFF}
+.herd_cont{ width:1200px; margin:auto;/*background:url(../images/herdbg.jpg) no-repeat center;*/ height:83px;}
+.herd_cont .logo{ width:179px; height:82px; background:url(../image/logo.png) no-repeat; float:left;}
+
+.herd_cont .out p{ font-size:16px; padding-left:30px; float:left; font-size:14px; }
+.herd_cont .out p a{ color:#6d9940; background:url(../images/ico.png) -155px -44px no-repeat; width:50px;  display:block; float:right; margin-left:10px; font-size:14px}
+/*nav*/
+.nav{ float:right;}
+.nav .ul1{ margin-top:30px;}
+.nav .ul1 li{ float:left; margin-left:50px; font-size:14px; cursor:pointer}
+.nav .ul1 li:hover{ color:#75a545;}
+.nav .ul1 li a{ color:#000}
+.nav .ul1 li a:hover{ color:#75a545}
+
+.proposal{ position:relative; height:55px;}
+.xl{ position:absolute; width:220px;    left:-20px; top:22px;  border:1px solid #d8d8d8; background:#fff; display:none; }
+.xlul li{ padding-top:8px; padding-bottom:8px;  width:100%; }
+.xlul li a{ color:#666; font-size:12px; margin-left:-40px;}
+.xlul a:hover{  color:#6d9940; text-decoration:underline}
+
+.language .button{ background:none; border:0; cursor:pointer; }
+.language .button:hover{ background:#096; color:#FFF; border-radius:5px; display:inline}
+
+
+/*内容*/
+body{ background:#f5f5f5;}
+.warp{ width:100%; }
+.warp_conter{ width:1200px;margin:auto; margin-top:50px;}
+
+
+
+/*left*/
+.wrap_left{ width:220px; height:600px; background:#fff; float:left}
+.wrap_left ul { margin-left:30px; margin-top:30px;}
+.wrap_left ul h3{ font-size:16px; background:url(../images/ico.png)  0 2px no-repeat; width:150px; padding-left:20px; margin-bottom:15px; color:#333; font-weight:normal}
+.wrap_left ul li{  line-height:30px; margin-left:20px;} 
+.wrap_left ul li a{font-size:14px; color:#666;}
+.wrap_left ul li a:hover{ color:#000}
+
+/*right*/
+
+/*送样登记*/
+.wrap_right{ width:965px; min-height:600px; background:#fff; float:right}
+.tab_con{ width:940px;  margin:auto; margin-top:20px;overflow:auto;}
+.tab_con .tabs{ width:1200px; border:0; font-size:12px; color:#666; text-align: }
+.tab_con .tabs  td{ border:0}
+.tab_con .tabs td { line-height:35px; border-bottom:1px solid #d8d8d8;}
+.tab_con .tabs .th{ font-size:14px; color:#fff; background:#8cb872; line-height:40px; height:40px;}
+.tab_con .tabs .htmc{ background:url(../images/ico.png) left -98px no-repeat; padding-left:20px;}
+.tab_con .tabs .htmc a{ color:#666; border:1px solid #76a446; padding:2px; border-radius:3px; font-size:11px;}
+
+.tab_con .tabs .htbh{ background:url(../images/ico.png) 20px -98px no-repeat; padding-left:40px; }
+.tab_con .tabs .htbh a{color:#666; border:1px solid #76a446; padding:2px; border-radius:3px; font-size:11px;}
+
+
+
+/*送检单表格*/
+.sjd{ width:950px; margin:auto;}
+.sjd_top{ margin-top:50px;}
+.sjd_top h3 { text-align:center}
+.sjd_top h3 p{ font-size:14px; color:#666; font-weight:normal}
+
+.sjdtab{ font-size:12px; color:#333;border-collapse:collapse; }
+.sjdtab tr{ line-height:28px;}
+.sjdtab p{ line-height:24px;} 
+
+.sjdtab2 { border:none;border-collapse:collapse; font-size:12px; }
+.sjdtab2 .text5{ border:none; width:90%}
+.sjdtab2 tr, td{border-color:#333; }
+
+
+
+.tabs3{ border-top:0; border-bottom:0; border-left:0; border-right:0;}
+.text{ border:none;}
+
+
+.but2{  background:none; border:0; background:#8cb872; width:30%; border-radius:5px; height:40px; color:#fff; font-size:14px;
+ cursor:pointer;}
+ .but2:hover{ background:#8ec74c;}
+
+
+
+
+
+
+
+/*底部*/
+.foot{ width:100%; height:40px;  margin-top:30px;}
+.foot p{ text-align:center; color:#666; font-size:12px; line-height:40px;}
+
+
+.language{ position:fixed; right:1%;}
+.language .button{ background:none; border:0; cursor:pointer; }
+.language .button:hover{ background:#096; color:#FFF; border-radius:5px; display:inline}
+
+
+
+
+
+
+span .icon_item{
+    background: url("../images/item.gif")left -98px no-repeat; padding-left:20px;
+}
+
+
+.kuaidi100{ width:28px; height:18px; background:url(../images/kuaidi100.png) no-repeat;}
+.Kdniao{ width:28px; height:18px; background:url(../images/Kdniao.png) no-repeat;}
+
+
+
+
+.img_network {
+    background: url("../images/network.gif")left -98px no-repeat; padding-left:20px;
+}
+
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts PUBLIC
+		"-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+		"http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+<!-- session拦截 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true" />
+	<constant name="struts.multipart.maxSize" value="100000000"/>
+	<constant name="struts.enable.SlashesInActionNames" value="true"/>
+	<constant name="struts.action.extension" value="action" />
+	<!-- 指定资源编码类型 -->
+	<constant name="struts.i18n.encoding" value="UTF-8" />
+	<!-- spring aop 拦截action时需加此常量 -->
+	<constant name="struts.objectFactory.spring.autoWire.alwaysRespect" value="true" />
+
+	<package name="base" namespace="/" extends="struts-default" strict-method-invocation="false">
+
+		<interceptors>
+			<interceptor name="exceptioninterceptor" class="com.lims.core.interceptor.ExceptionInterceptor"></interceptor>
+			<interceptor name="sessioninterceptor" class="com.lims.core.interceptor.SessionInterceptor"></interceptor>
+
+			<interceptor-stack name="mystack">
+				<interceptor-ref name="defaultStack"/>
+			    <interceptor-ref name="sessioninterceptor"/>
+			    <interceptor-ref name="exceptioninterceptor"/>
+			</interceptor-stack>
+			<!-- 异常 -->
+			<interceptor-stack name="exceptionstack">
+				<interceptor-ref name="defaultStack"/>
+			   <interceptor-ref name="exceptioninterceptor"/>
+			</interceptor-stack>
+		</interceptors>
+		<!-- 默认-->
+		<default-interceptor-ref name="mystack"></default-interceptor-ref>
+
+
+		<global-results>
+			<result name="login">/index.jsp</result>
+			<result name="error">/error.jsp</result>
+		</global-results>
+		<global-allowed-methods>regex:.*</global-allowed-methods>
+	</package>
+
+
+	<!-- 请求参数的编码方式
+	<constant name="struts.i18n.encoding" value="UTF-8" />
+
+	&lt;!&ndash; 指定被struts2处理的请求后缀类型。多个用逗号隔开 &ndash;&gt;
+	 <constant name="struts.action.extension" value="action" />
+
+	<constant name="struts.convention.action.suffix" value="Action"/>
+
+	&lt;!&ndash; 当struts.xml改动后，是否重新加载。默认值为false(生产环境下使用),开发阶段最好打开 &ndash;&gt;
+	<constant name="struts.configuration.xml.reload" value="true" />
+
+	&lt;!&ndash; 是否使用struts的开发模式。开发模式会有更多的调试信息。默认值为false(生产环境下使用),开发阶段最好打开 &ndash;&gt;
+	<constant name="struts.devMode" value="true" />
+
+	&lt;!&ndash; 设置浏览器是否缓存静态内容。默认值为true(生产环境下使用),开发阶段最好关闭 &ndash;&gt;
+	<constant name="struts.serve.static.browserCache" value="false" />
+
+	&lt;!&ndash; 指定由spring负责action对象的创建&ndash;&gt;
+	<constant name="struts.objectFactory" value="spring"/>
+
+	&lt;!&ndash; 是否开启动态方法调用 &ndash;&gt;
+	<constant name="struts.multipart.maxSize" value="100000000"/> 
+
+	&lt;!&ndash; spring aop 拦截action时需加此常量 &ndash;&gt;
+	 <constant name="struts.objectFactory.spring.autoWire.alwaysRespect" value="true" />
+	&lt;!&ndash; action全部用注解进行配置 &ndash;&gt;
+
+	&lt;!&ndash; 是否开启动态方法调用 &ndash;&gt;
+	<constant name="struts.enable.DynamicMethodInvocation" value="false" />-->
+	<!--添加包 -->
+	<!-- <package name="tutorial" extends="struts-default"> <action name="p"
+        class="JavaSource.AllPersonAction" method="show"> <result name="all" >all.jsp</result>
+        <result name="error">error.jsp</result> </action> <action name="testAction"
+        class="com.app.action.TestAction" method="test"> <result name="all" >all.jsp</result>
+        <result name="error">error.jsp</result> </action> </package> -->
+</struts>  

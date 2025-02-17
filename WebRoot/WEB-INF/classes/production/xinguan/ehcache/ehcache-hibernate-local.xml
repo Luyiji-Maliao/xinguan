@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+
+	<diskStore path="java.io.tmpdir/hibernate/user" />
+
+	<!-- DefaultCache setting. -->
+	<defaultCache maxElementsInMemory="10000"
+		 maxElementsOnDisk="10000"
+		 memoryStoreEvictionPolicy="LRU"
+		  eternal="false"
+		timeToIdleSeconds="300" 
+		timeToLiveSeconds="300"
+		 overflowToDisk="true" 
+		 diskPersistent="false" />
+
+	<!-- Special objects setting.cha xun huan cun pei zhi-->
+
+	<!--<cache name="org.hibernate.cache.spi.UpdateTimestampsCache" maxElementsInMemory="10000"
+		memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="1000000" />
+	<cache name="org.hibernate.cache.StandardQueryCache" maxElementsInMemory="10000"
+		memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="1000000" />
+	
+	</ehcache>-->
